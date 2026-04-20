@@ -77,7 +77,7 @@ def scrape_wired_pagination():
                                 "scraped_at": datetime.now().isoformat(),
                                 "source": "Wired.com"
                             })
-                            print(f"[{len(articles_data)}/{target_count}] Berhasil ambil: {title[:50]}...")
+                            print(f"[{len(articles_data)}/{target_count}] Berhasil ambil: {title[:30]}...")
                             
                     except Exception as e:
                         continue
@@ -100,7 +100,7 @@ def scrape_wired_pagination():
     }
     
     with open("data/articles.json", "w", encoding="utf-8") as f:
-        json.dump(json_output, f, indent=4)
+        json.dump(json_output, f, indent=4, ensure_ascii=False)
     
     # Simpan data CSV
     if articles_data:
