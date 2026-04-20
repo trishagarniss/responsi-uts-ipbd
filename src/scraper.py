@@ -77,7 +77,7 @@ def scrape_wired_pagination():
                                 "scraped_at": datetime.now().isoformat(),
                                 "source": "Wired.com"
                             })
-                            print(f"[{len(articles_data)}/{target_count}] Berhasil ambil: {title[:30]}...")
+                            print(f"[{len(articles_data)}/{target_count}] Berhasil ambil: {title[:50]}...")
                             
                     except Exception as e:
                         continue

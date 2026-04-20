@@ -20,7 +20,7 @@ def get_articles():
     except Exception as e:
         return {"error": str(e)}
 
-# Endpoint tambahan buat ngetes aja
+# Endpoint tambahan buat ngetes doang
 @app.get("/")
 def read_root():
     return {"message": "API Responsi UTS IPBD Berjalan! Akses /articles untuk melihat data."}
