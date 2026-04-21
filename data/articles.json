@@ -1,14 +1,814 @@
 {
-    "session_id": "wired_session_20260421_090913",
-    "timestamp": "2026-04-21T09:09:13.971593",
-    "articles_count": 200,
+    "session_id": "wired_session_20260421_111230",
+    "timestamp": "2026-04-21T11:12:30.184514",
+    "articles_count": 300,
     "articles": [
+        {
+            "title": "Asus' Gaming Laptop Doesn't Need a Discrete GPU, but It'd Be Better With One",
+            "url": "https://www.wired.com/review/asus-tuf-gaming-a14-2026/",
+            "description": "A gaming laptop without a discrete graphics card feels revolutionary, but the TUF Gaming A14 doesn't quite take full advantage of AMD's daring new silicon.",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:19.593260",
+            "source": "Wired.com"
+        },
+        {
+            "title": "These Are the Essential MacBook Accessories Everyone Needs",
+            "url": "https://www.wired.com/gallery/best-macbook-accessories/",
+            "description": "From charging adapters to external monitors, I’ve gathered the absolute best peripherals for your MacBook.",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:19.731006",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best Wi-Fi Routers to Reach Every Corner of Your Home",
+            "url": "https://www.wired.com/gallery/best-wifi-routers/",
+            "description": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
+            "author": "By Simon Hill",
+            "scraped_at": "2026-04-21T11:07:19.861878",
+            "source": "Wired.com"
+        },
+        {
+            "title": "This Windows Laptop Is a MacBook Neo Killer, and It’s Only $500",
+            "url": "https://www.wired.com/story/hp-omnibook-5-deal-0426-1/",
+            "description": "In many ways, the HP OmniBook 5 is a better budget laptop than the MacBook Neo, especially when the discounts are strong.",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:19.970390",
+            "source": "Wired.com"
+        },
+        {
+            "title": "It’s a Tablet! It’s a Laptop! After Testing the Best 2-in-1s, Here’s What I Recommend",
+            "url": "https://www.wired.com/story/best-2-in-1-laptops/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:20.041310",
+            "source": "Wired.com"
+        },
+        {
+            "title": "I Tested the MacBook Neo and the MacBook Air. Here's Which One You Should Buy",
+            "url": "https://www.wired.com/story/macbook-neo-vs-macbook-air/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:20.197680",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best Cheap Laptops Let You Get Your Money’s Worth",
+            "url": "https://www.wired.com/gallery/best-cheap-laptops/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:20.260455",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best Mesh Wi-Fi Systems so Your Phone Stops Dropping Out",
+            "url": "https://www.wired.com/story/best-mesh-wifi-routers/",
+            "description": "-",
+            "author": "By Simon Hill",
+            "scraped_at": "2026-04-21T11:07:20.333902",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best Laptop Stands to Save Your Neck",
+            "url": "https://www.wired.com/gallery/best-laptop-stands/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:20.402092",
+            "source": "Wired.com"
+        },
+        {
+            "title": "How to Back Up Your Life With Hard Drives, Cloud-Based Services, and More",
+            "url": "https://www.wired.com/story/how-to-back-up-your-digital-life/",
+            "description": "-",
+            "author": "By Scott Gilbertson",
+            "scraped_at": "2026-04-21T11:07:20.468518",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best External Hard Drives to Back Up Everything You Have",
+            "url": "https://www.wired.com/story/best-portable-external-storage-drives/",
+            "description": "-",
+            "author": "By Scott Gilbertson",
+            "scraped_at": "2026-04-21T11:07:20.537855",
+            "source": "Wired.com"
+        },
+        {
+            "title": "What’s With the US Ban on Foreign Routers?",
+            "url": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
+            "description": "-",
+            "author": "By Simon Hill",
+            "scraped_at": "2026-04-21T11:07:20.612648",
+            "source": "Wired.com"
+        },
+        {
+            "title": "My Honest Advice on What Laptop to Buy, Having Tested Hundreds",
+            "url": "https://www.wired.com/story/best-laptops/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:20.686476",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The M5 MacBook Air Is Apple’s Goldilocks Laptop",
+            "url": "https://www.wired.com/review/macbook-air-m5/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:20.752134",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Ditch Cloud Services With Your Own NAS Server",
+            "url": "https://www.wired.com/story/how-to-set-up-nas-server/",
+            "description": "-",
+            "author": "By Simon Hill",
+            "scraped_at": "2026-04-21T11:07:20.825395",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Why Free Data Monitoring Services Are Worth It",
+            "url": "https://www.wired.com/story/best-dark-web-monitoring-services/",
+            "description": "-",
+            "author": "By Matthew S. Smith",
+            "scraped_at": "2026-04-21T11:07:20.927367",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Apple’s Studio Display XDR Does HDR Better Than Any Other Monitor. Is That Enough?",
+            "url": "https://www.wired.com/review/apple-studio-display-xdr/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:21.210380",
+            "source": "Wired.com"
+        },
+        {
+            "title": "This Wireless Mechanical Keyboard Is Great for Productivity",
+            "url": "https://www.wired.com/review/logitech-k98m-wireless/",
+            "description": "-",
+            "author": "By Henri Robbins",
+            "scraped_at": "2026-04-21T11:07:21.384537",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The M5 Max Brings the MacBook Pro to New Peaks of Power",
+            "url": "https://www.wired.com/review/macbook-pro-16-inch-m5-max/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:21.517993",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The MacBook Neo Is the Low-Hanging Fruit That Apple Finally Picked",
+            "url": "https://www.wired.com/review/apple-macbook-neo/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:21.901804",
+            "source": "Wired.com"
+        },
+        {
+            "title": "How to Run Ethernet Cables Around Your Home",
+            "url": "https://www.wired.com/story/how-to-run-ethernet-cables-around-your-home/",
+            "description": "-",
+            "author": "By Simon Hill",
+            "scraped_at": "2026-04-21T11:07:23.020962",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best USB Flash Drives for Easy File Transfer and Storage",
+            "url": "https://www.wired.com/gallery/best-usb-flash-drives/",
+            "description": "-",
+            "author": "By Simon Hill",
+            "scraped_at": "2026-04-21T11:07:23.146429",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Corsair's Latest Sabre V2 Gaming Mice Are Built Like Supercars",
+            "url": "https://www.wired.com/review/corsair-sabre-v2-cf-and-mg/",
+            "description": "-",
+            "author": "By Henri Robbins",
+            "scraped_at": "2026-04-21T11:07:23.280197",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best Laptop Docking Stations to Supercharge Your Workstation",
+            "url": "https://www.wired.com/gallery/best-laptop-docking-stations/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:23.406901",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Bargain-Basement MacBook Neo Exposes the Insane Price of Another Key Apple Product",
+            "url": "https://www.wired.com/story/the-bargain-basement-macbook-neo-exposes-the-insane-price-of-another-key-apple-product/",
+            "description": "-",
+            "author": "By Jeremy White",
+            "scraped_at": "2026-04-21T11:07:23.514438",
+            "source": "Wired.com"
+        },
+        {
+            "title": "These Cheap Laptops Have Twice the Storage and Memory as the MacBook Neo",
+            "url": "https://www.wired.com/story/asus-vivobook-14-deal-macbook-neo/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:23.651044",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best USB Hubs for Connecting All Your Gadgets",
+            "url": "https://www.wired.com/gallery/best-usb-hubs/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:23.742239",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Colorful MacBook Neo Is Apple’s Cheapest Laptop Ever",
+            "url": "https://www.wired.com/story/new-budget-apple-macbook-2026/",
+            "description": "-",
+            "author": "By Luke Larsen And Julian Chokkattu",
+            "scraped_at": "2026-04-21T11:07:23.856632",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best Linux Laptops (I Install Linux on Every Laptop I Test)",
+            "url": "https://www.wired.com/story/best-linux-laptops/",
+            "description": "-",
+            "author": "By Scott Gilbertson",
+            "scraped_at": "2026-04-21T11:07:23.989926",
+            "source": "Wired.com"
+        },
+        {
+            "title": "These Official ChromeOS Flex USB Sticks Can Give Your Old Mac or Windows PC a Second Life",
+            "url": "https://www.wired.com/story/back-market-google-chromeos-flex-usb-sticks/",
+            "description": "-",
+            "author": "By Boone Ashworth",
+            "scraped_at": "2026-04-21T11:07:34.377125",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Apple’s New MacBook Air and MacBook Pro Have New Chips, More Storage, and Higher Prices",
+            "url": "https://www.wired.com/story/apple-macbook-macbook-air-m5-macbook-pro-m5-pro-m5-max-2026/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:34.472987",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Tired of Typing? These Are the Best Ergonomic Keyboards I’ve Found",
+            "url": "https://www.wired.com/gallery/best-ergonomic-keyboard/",
+            "description": "-",
+            "author": "By Henri Robbins",
+            "scraped_at": "2026-04-21T11:07:34.578554",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Lenovo’s Latest Wacky Concepts Include a Laptop With a Built-In Portable Monitor",
+            "url": "https://www.wired.com/story/lenovo-mwc-concepts-thinkbook-modular-ai-pc-legion-go-fold/",
+            "description": "-",
+            "author": "By Julian Chokkattu",
+            "scraped_at": "2026-04-21T11:07:34.677704",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best MicroSD Cards I've Tried",
+            "url": "https://www.wired.com/gallery/best-micro-sd-cards/",
+            "description": "-",
+            "author": "By Brad Bourque",
+            "scraped_at": "2026-04-21T11:07:34.802662",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Why You Might Need a Laptop Cooling Pad—and Which You Should Buy",
+            "url": "https://www.wired.com/story/best-laptop-cooling-pad/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:34.930466",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Kubuntu Focus Zr Gen 1 Is a Powerhouse Linux Laptop",
+            "url": "https://www.wired.com/review/kubuntu-focus-zr-gen-1-linux-laptop/",
+            "description": "-",
+            "author": "By Scott Gilbertson",
+            "scraped_at": "2026-04-21T11:07:35.033196",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Flip, Rotate, and Detach: These Are the Best 2-in-1 Laptops",
+            "url": "https://www.wired.com/gallery/best-2-in-1-laptops/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:35.187901",
+            "source": "Wired.com"
+        },
+        {
+            "title": "These Cheap Monitors Legitimately Shocked Me by How Good They Were",
+            "url": "https://www.wired.com/story/best-budget-monitors/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:35.326801",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The New Dell XPS 14 Laptop Is an Incredible Comeback",
+            "url": "https://www.wired.com/review/dell-xps-14-2026/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:07:35.431214",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Don’t Buy One of These Junky Laptops That Amazon Is Pushing",
+            "url": "https://www.wired.com/story/bad-amazon-laptops/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:07.829530",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best Windows Laptops You Can Buy in 2026",
+            "url": "https://www.wired.com/gallery/best-windows-laptops/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:07.953167",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Ultimate Quest: How to Choose the Right Gaming Laptop",
+            "url": "https://www.wired.com/story/how-to-buy-a-gaming-laptop/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:08.075538",
+            "source": "Wired.com"
+        },
+        {
+            "title": "This $500 Price Cut Just Made the Prettiest Laptop of Last Year Worth Buying",
+            "url": "https://www.wired.com/story/asus-zenbook-s-16-presidents-day-sale/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:08.173117",
+            "source": "Wired.com"
+        },
+        {
+            "title": "KYY’s Bulky X90G Boosts Productivity With 3 Extra Screens Around Your Laptop",
+            "url": "https://www.wired.com/review/kyy-x90g-quad-portable-monitor-extender/",
+            "description": "-",
+            "author": "By Christopher Null",
+            "scraped_at": "2026-04-21T11:08:08.272312",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best Gaming Laptops to Buy, Across Every Budget",
+            "url": "https://www.wired.com/gallery/best-gaming-laptops/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:08.397406",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Gear News of the Week: Google's Pixel 10a Arrives Soon, and Valve Delays Its Steam Hardware",
+            "url": "https://www.wired.com/story/gear-news-of-the-week-googles-pixel-10a-arrives-soon-and-valve-delays-its-steam-hardware/",
+            "description": "-",
+            "author": "By Julian Chokkattu",
+            "scraped_at": "2026-04-21T11:08:08.504122",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Which Microsoft Surface Is Best for You?",
+            "url": "https://www.wired.com/story/microsoft-surface-buying-guide/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:08.631262",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Gear News of the Week: Samsung’s TriFold Sells Out in Minutes, and a Leak Teases Google’s New OS",
+            "url": "https://www.wired.com/story/gear-news-of-the-week-samsungs-trifold-sells-out-in-minutes-and-a-leak-teases-googles-new-os/",
+            "description": "-",
+            "author": "By Julian Chokkattu",
+            "scraped_at": "2026-04-21T11:08:08.824811",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Surface Laptop Is $400 Off",
+            "url": "https://www.wired.com/story/surface-laptop-deal-126/",
+            "description": "-",
+            "author": "By Brad Bourque",
+            "scraped_at": "2026-04-21T11:08:08.923586",
+            "source": "Wired.com"
+        },
+        {
+            "title": "AMD's Latest Ryzen Is Still Gaming’s Best Chip",
+            "url": "https://www.wired.com/review/amd-ryzen-7-9850x3d/",
+            "description": "-",
+            "author": "By Brad Bourque",
+            "scraped_at": "2026-04-21T11:08:09.011773",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The 8 Best Laptops to Buy",
+            "url": "https://www.wired.com/gallery/best-laptops/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:09.117274",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Intel’s Panther Lake Chip Is Its Biggest Win in Years",
+            "url": "https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:09.205340",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best Cheap Gaming Laptops Actually Worth Buying",
+            "url": "https://www.wired.com/gallery/best-cheap-gaming-laptops/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:09.300452",
+            "source": "Wired.com"
+        },
+        {
+            "title": "This Is Easily the Best Gaming Laptop You Can Buy Under $1,000",
+            "url": "https://www.wired.com/review/lenovo-loq-15/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:09.385067",
+            "source": "Wired.com"
+        },
+        {
+            "title": "This Is the Cutest Computer Case We’ve Ever Tested",
+            "url": "https://www.wired.com/review/hyte-x50/",
+            "description": "-",
+            "author": "By Brad Bourque",
+            "scraped_at": "2026-04-21T11:08:09.459198",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Lenovo’s New Gaming Laptop Goes Ultrawide at the Press of a Key",
+            "url": "https://www.wired.com/story/lenovo-legion-pro-gaming-laptop-ultrawide-rollable-screen/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:09.558862",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Framework Laptop 16 Is a Gamer’s Dream Come True",
+            "url": "https://www.wired.com/review/framework-laptop-16/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:09.635645",
+            "source": "Wired.com"
+        },
+        {
+            "title": "HP's ZBook 8 Gli Is a Workstation That Doesn't Impress",
+            "url": "https://www.wired.com/review/hp-zbook-8-gli-14-inch/",
+            "description": "-",
+            "author": "By Christopher Null",
+            "scraped_at": "2026-04-21T11:08:09.726828",
+            "source": "Wired.com"
+        },
+        {
+            "title": "How to Choose a Computer Monitor You Won’t Hate in a Few Years",
+            "url": "https://www.wired.com/story/how-to-choose-a-computer-monitor/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:09.829530",
+            "source": "Wired.com"
+        },
+        {
+            "title": "How to Choose the Right Laptop: A Step-by-Step Guide",
+            "url": "https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/",
+            "description": "-",
+            "author": "By Luke Larsen And Scott Gilbertson",
+            "scraped_at": "2026-04-21T11:08:22.181955",
+            "source": "Wired.com"
+        },
+        {
+            "title": "This Pre-Built Gaming PC Is a Good Value as RAM Prices Soar",
+            "url": "https://www.wired.com/review/ibuypower-rdy-slate-9mp-r01/",
+            "description": "-",
+            "author": "By Brad Bourque",
+            "scraped_at": "2026-04-21T11:08:22.272201",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best Monitors for the Mac Mini",
+            "url": "https://www.wired.com/gallery/best-monitors-for-mac-mini/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:22.365044",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Gear News of the Week: LG Debuts an RGB LED TV, and Google Brings Find Hub to Wear OS",
+            "url": "https://www.wired.com/story/gear-news-of-the-week-lg-debuts-an-rgb-led-tv-and-google-brings-find-hub-to-wear-os/",
+            "description": "-",
+            "author": "By Julian Chokkattu",
+            "scraped_at": "2026-04-21T11:08:22.444750",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Google’s Chromebook Successor Is Coming. Here’s Everything We Know So Far",
+            "url": "https://www.wired.com/story/google-aluminium-os-chromebook-successor-is-coming/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:22.549697",
+            "source": "Wired.com"
+        },
+        {
+            "title": "These Are the Best Desktop Computers to Buy",
+            "url": "https://www.wired.com/gallery/best-desktop-computers/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:22.653516",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Laptops Have Never Been Cheaper. That Trend Might Reverse in 2026",
+            "url": "https://www.wired.com/story/laptops-have-never-been-cheaper-that-trend-might-reverse-in-2026/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:22.803074",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best Printers for Home and Office",
+            "url": "https://www.wired.com/gallery/best-printers/",
+            "description": "-",
+            "author": "By Brad Bourque",
+            "scraped_at": "2026-04-21T11:08:23.067815",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Lenovo’s Legion Go 2 Is a Good Handheld for Power Users",
+            "url": "https://www.wired.com/review/lenovo-legion-go-gen-2/",
+            "description": "-",
+            "author": "By Brad Bourque",
+            "scraped_at": "2026-04-21T11:08:23.198000",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The 22 Last Minute Cyber Monday Tech Deals from Best Buy",
+            "url": "https://www.wired.com/story/cyber-monday-best-buy-deals/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:23.331357",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The 14 Best Last Minute Cyber Monday Laptop Deals: MacBooks, Gaming Laptops, and More",
+            "url": "https://www.wired.com/story/best-cyber-monday-laptop-deals-2025/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:23.437207",
+            "source": "Wired.com"
+        },
+        {
+            "title": "You Can Buy the Surface Laptop For Just $700, and That's Ridiculous",
+            "url": "https://www.wired.com/story/surface-laptop-cyber-monday-deal/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:23.543584",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Don't Get Suckered by Cyber Monday Laptop Deals. Just Get the MacBook Air",
+            "url": "https://www.wired.com/story/best-macbook-cyber-monday-deal-2025/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:23.637260",
+            "source": "Wired.com"
+        },
+        {
+            "title": "I Found the Best Gaming Laptop Deal for Black Friday",
+            "url": "https://www.wired.com/story/best-black-friday-gaming-laptop-deal/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:23.754924",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Get Clicky With Our Favorite Custom Mechanical Keyboards",
+            "url": "https://www.wired.com/gallery/best-mechanical-keyboards/",
+            "description": "-",
+            "author": "By Henri Robbins",
+            "scraped_at": "2026-04-21T11:08:23.852132",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Dell Dropped Its Premium Laptop to $500 on Black Friday for a Limited Time",
+            "url": "https://www.wired.com/story/dell-14-plus-black-friday-2025-1/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:23.963909",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Alienware Aurora Gaming Desktop Punches Above Its Weight",
+            "url": "https://www.wired.com/review/alienware-aurora-gaming-desktop/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:24.104334",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The LG UltraFine 6K Monitor Put More Pixels on My Desk Than Ever",
+            "url": "https://www.wired.com/review/lg-ultrafine-evo-6k-32-inch-monitor/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:24.229079",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best Chromebooks for Every Budget",
+            "url": "https://www.wired.com/gallery/best-chromebooks/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:08:24.325585",
+            "source": "Wired.com"
+        },
+        {
+            "title": "This Lightweight Laptop Is Almost Half Off",
+            "url": "https://www.wired.com/story/asus-zenbook-a14-deal-1125/",
+            "description": "-",
+            "author": "By Brad Bourque",
+            "scraped_at": "2026-04-21T11:08:24.462388",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best Mac Accessories to Amplify Your Workstation",
+            "url": "https://www.wired.com/gallery/best-mac-accessories/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:09:08.129787",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The 12 Tech Gifts They’d Actually Want for the Holidays This Year",
+            "url": "https://www.wired.com/story/best-tech-gifts/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:09:08.227259",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Razer’s Cobra HyperSpeed Is Not Your Standard Gaming Mouse",
+            "url": "https://www.wired.com/review/razer-cobra-hyperspeed/",
+            "description": "-",
+            "author": "By Henri Robbins",
+            "scraped_at": "2026-04-21T11:09:08.326303",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best Computer Speakers for Jamming Out in Your Home Office",
+            "url": "https://www.wired.com/gallery/best-computer-speakers/",
+            "description": "-",
+            "author": "By Simon Hill",
+            "scraped_at": "2026-04-21T11:09:08.401505",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best Webcams for Looking Brighter and Better",
+            "url": "https://www.wired.com/gallery/best-webcams/",
+            "description": "-",
+            "author": "By Luke Larsen And Julian Chokkattu",
+            "scraped_at": "2026-04-21T11:09:08.480379",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Microsoft’s Surface Laptop Is Marked Down by $350",
+            "url": "https://www.wired.com/story/surface-laptop-deal-1125/",
+            "description": "-",
+            "author": "By Brad Bourque",
+            "scraped_at": "2026-04-21T11:09:08.602668",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Asus ProArt P16 Is an Understated Beast of a Laptop",
+            "url": "https://www.wired.com/review/asus-proart-p16-2025/",
+            "description": "-",
+            "author": "By Christopher Null",
+            "scraped_at": "2026-04-21T11:09:08.669880",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Updated Razer Blade 14 Is Deeply Discounted",
+            "url": "https://www.wired.com/story/razer-blade-14-oled-deal-1125/",
+            "description": "-",
+            "author": "By Brad Bourque",
+            "scraped_at": "2026-04-21T11:09:08.746662",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best Laptops for College Students",
+            "url": "https://www.wired.com/gallery/best-laptops-for-college-students/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:09:08.810313",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Acer's Predator Triton Laptop Is for Gamers and Creators—and Comes With a Stylus",
+            "url": "https://www.wired.com/review/acer-predator-triton-14-ai/",
+            "description": "-",
+            "author": "By Christopher Null",
+            "scraped_at": "2026-04-21T11:09:08.886197",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The 15-Inch MacBook Air Is $200 Off",
+            "url": "https://www.wired.com/story/macbook-air-15-deal-1125/",
+            "description": "-",
+            "author": "By Brad Bourque",
+            "scraped_at": "2026-04-21T11:09:09.008634",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Razer Blade 14 Is Still One of the Best Compact Gaming Laptops",
+            "url": "https://www.wired.com/review/razer-blade-14-2025/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:09:09.095291",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Razer’s New High-Tech Mousepad Isn’t Really Worth the High Cost",
+            "url": "https://www.wired.com/review/razer-hyperflux-v2-wireless-charging-system/",
+            "description": "-",
+            "author": "By Henri Robbins",
+            "scraped_at": "2026-04-21T11:09:09.205573",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Acer Nitro V 16 Is a Cheap Gaming Laptop That Cuts the Right Corners",
+            "url": "https://www.wired.com/review/acer-nitro-v-16-ai/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:09:09.309206",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Alienware 16X Aurora Is My Favorite Alienware Laptop in Years",
+            "url": "https://www.wired.com/review/alienware-16x-aurora/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:09:09.394636",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
+            "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
+            "description": "-",
+            "author": "By Julian Chokkattu",
+            "scraped_at": "2026-04-21T11:09:09.504065",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Dell Tower Plus Is a Handsome Prebuilt PC That Can Handle Work and Play",
+            "url": "https://www.wired.com/review/dell-tower-plus-ebt2250/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:09:09.644602",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Best Audio Interfaces for Home Recording or Podcasting",
+            "url": "https://www.wired.com/gallery/best-audio-interfaces/",
+            "description": "-",
+            "author": "By Parker Hall",
+            "scraped_at": "2026-04-21T11:09:09.778748",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The M5 MacBook Pro Isn't the Apple Upgrade You’ve Been Waiting For",
+            "url": "https://www.wired.com/review/apple-macbook-pro-m5-14-inch/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:09:09.877050",
+            "source": "Wired.com"
+        },
+        {
+            "title": "As Windows 10 Support Ends, Microsoft Is ‘Rewriting’ Windows 11 Around AI",
+            "url": "https://www.wired.com/story/microsoft-is-rewriting-windows-11-around-ai/",
+            "description": "-",
+            "author": "By Luke Larsen",
+            "scraped_at": "2026-04-21T11:09:09.966323",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Apple Just Upgraded the iPad Pro, MacBook Pro, and Vision Pro With Its New M5 Chip",
+            "url": "https://www.wired.com/story/apple-m5-powered-ipad-pro-macbook-pro-vision-pro-october-2025/",
+            "description": "-",
+            "author": "By Julian Chokkattu",
+            "scraped_at": "2026-04-21T11:09:20.824197",
+            "source": "Wired.com"
+        },
         {
             "title": "There’s New Evidence for How Loneliness Affects Memory in Old Age",
             "url": "https://www.wired.com/story/theres-new-evidence-for-how-loneliness-affects-memory-in-old-age/",
             "description": "A longitudinal study found that loneliness is more closely linked to lapses in immediate and delayed recall than to the overall speed of cognitive decline.",
             "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:04:30.745219",
+            "scraped_at": "2026-04-21T11:09:29.859446",
             "source": "Wired.com"
         },
         {
@@ -16,7 +816,7 @@
             "url": "https://www.wired.com/story/the-lonely-runner-problem-only-appears-simple/",
             "description": "-",
             "author": "By Paulina Rowińska",
-            "scraped_at": "2026-04-21T09:04:30.815553",
+            "scraped_at": "2026-04-21T11:09:29.940747",
             "source": "Wired.com"
         },
         {
@@ -24,7 +824,7 @@
             "url": "https://www.wired.com/story/how-can-astronauts-tell-how-fast-theyre-going/",
             "description": "-",
             "author": "By Rhett Allain",
-            "scraped_at": "2026-04-21T09:04:31.005340",
+            "scraped_at": "2026-04-21T11:09:30.025495",
             "source": "Wired.com"
         },
         {
@@ -32,7 +832,7 @@
             "url": "https://www.wired.com/story/flight-path-data-shows-how-mosquitoes-target-humans/",
             "description": "Scientists have quantified what draws mosquitoes to people—which could help make better, life-saving bug traps.",
             "author": "By Ritsuko Kawai",
-            "scraped_at": "2026-04-21T09:04:31.142732",
+            "scraped_at": "2026-04-21T11:09:30.109283",
             "source": "Wired.com"
         },
         {
@@ -40,7 +840,7 @@
             "url": "https://www.wired.com/story/scientists-have-made-french-fry-breakthrough/",
             "description": "Researchers have developed a method of making french fries that results in a healthier bite without sacrificing crispiness.",
             "author": "By Marta Musso",
-            "scraped_at": "2026-04-21T09:04:31.266034",
+            "scraped_at": "2026-04-21T11:09:30.178572",
             "source": "Wired.com"
         },
         {
@@ -48,7 +848,7 @@
             "url": "https://www.wired.com/story/heres-what-can-happen-when-the-us-bombs-irans-nuclear-sites/",
             "description": "As strikes continue on Iran’s nuclear facilities, the real danger isn’t the explosion, but what happens if critical safety systems fail—and how that risk could spread across the Gulf.",
             "author": "By Jethu Abraham",
-            "scraped_at": "2026-04-21T09:04:31.353643",
+            "scraped_at": "2026-04-21T11:09:30.254940",
             "source": "Wired.com"
         },
         {
@@ -56,7 +856,7 @@
             "url": "https://www.wired.com/story/fda-approves-eli-lillys-glp-1-pill/",
             "description": "Eli Lilly’s once-daily Foundayo is the second obesity pill to receive FDA approval. It will compete with Novo Nordisk’s pill version of Wegovy.",
             "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:04:31.434658",
+            "scraped_at": "2026-04-21T11:09:30.323981",
             "source": "Wired.com"
         },
         {
@@ -64,7 +864,7 @@
             "url": "https://www.wired.com/story/under-the-pacific-japan-seeks-independence-from-china-on-rare-earths/",
             "description": "Tokyo is succeeding where the rest of the world has failed, reducing its reliance on Beijing for crucial rare earth elements—thanks to an enormous underwater deposit discovered on a remote island.",
             "author": "By Lorenzo Lamperti",
-            "scraped_at": "2026-04-21T09:04:31.515124",
+            "scraped_at": "2026-04-21T11:09:30.394312",
             "source": "Wired.com"
         },
         {
@@ -72,7 +872,7 @@
             "url": "https://www.wired.com/story/marine-animals-in-the-strait-of-hormuz-dont-get-a-ceasefire/",
             "description": "As ships return to the Strait of Hormuz, mines, sonar, and congestion continue to reshape the Gulf beneath the surface.",
             "author": "By Evangeline Elsa",
-            "scraped_at": "2026-04-21T09:04:31.593902",
+            "scraped_at": "2026-04-21T11:09:30.467605",
             "source": "Wired.com"
         },
         {
@@ -80,7 +880,7 @@
             "url": "https://www.wired.com/story/trumps-war-on-iran-could-screw-over-us-farmers/",
             "description": "The Middle East supplies a huge amount of the world’s fertilizer. Conflict in the region has sent prices soaring ahead of the critical spring planting season.",
             "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:04:31.671020",
+            "scraped_at": "2026-04-21T11:09:30.550619",
             "source": "Wired.com"
         },
         {
@@ -88,7 +888,7 @@
             "url": "https://www.wired.com/story/the-last-mystery-of-antarcticas-blood-falls-has-finally-been-solved/",
             "description": "New research sheds light on what drives reddish water to emerge from underground to pour onto the Taylor Glacier.",
             "author": "By Simone Valesini",
-            "scraped_at": "2026-04-21T09:04:31.750410",
+            "scraped_at": "2026-04-21T11:09:30.627533",
             "source": "Wired.com"
         },
         {
@@ -96,7 +896,7 @@
             "url": "https://www.wired.com/story/the-us-government-to-ask-data-centers-how-much-power-they-use/",
             "description": "In a letter obtained by WIRED, the Energy Information Administration tells two senators that it plans to develop a mandatory assessment of data centers' energy use.",
             "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:04:31.826544",
+            "scraped_at": "2026-04-21T11:09:30.712821",
             "source": "Wired.com"
         },
         {
@@ -104,7 +904,7 @@
             "url": "https://www.wired.com/story/secret-ingredient-to-making-luxury-ice-at-home/",
             "description": "Nice ice is big business, but you can get perfectly clear cubes at home without freezing your assets.",
             "author": "By Jeremy White",
-            "scraped_at": "2026-04-21T09:04:31.904579",
+            "scraped_at": "2026-04-21T11:09:30.793263",
             "source": "Wired.com"
         },
         {
@@ -112,7 +912,7 @@
             "url": "https://www.wired.com/story/a-single-strike-wont-shut-off-the-gulfs-desalination-system/",
             "description": "The Gulf’s water system is built with layers of backup, but it relies on continuous operation to hold.",
             "author": "By Dana Alomar",
-            "scraped_at": "2026-04-21T09:04:31.982171",
+            "scraped_at": "2026-04-21T11:09:30.922720",
             "source": "Wired.com"
         },
         {
@@ -120,7 +920,7 @@
             "url": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/",
             "description": "Documents show that one of Google’s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year—an increasingly common trend in the industry.",
             "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:04:32.077403",
+            "scraped_at": "2026-04-21T11:09:31.005540",
             "source": "Wired.com"
         },
         {
@@ -128,7 +928,7 @@
             "url": "https://www.wired.com/story/most-of-our-electricity-comes-from-solar-power/",
             "description": "That’s good news, since the forecast is sunshine for the next 5 billion years.",
             "author": "By Rhett Allain",
-            "scraped_at": "2026-04-21T09:04:32.161889",
+            "scraped_at": "2026-04-21T11:09:31.093994",
             "source": "Wired.com"
         },
         {
@@ -136,7 +936,7 @@
             "url": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
             "description": "In a letter sent Thursday morning, Elizabeth Warren and Josh Hawley press the Energy Information Agency to mandate annual electricity disclosure for data centers.",
             "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:04:32.246470",
+            "scraped_at": "2026-04-21T11:09:31.173960",
             "source": "Wired.com"
         },
         {
@@ -144,7 +944,7 @@
             "url": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/",
             "description": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
             "author": "By Joel Khalili",
-            "scraped_at": "2026-04-21T09:04:32.342019",
+            "scraped_at": "2026-04-21T11:09:31.243283",
             "source": "Wired.com"
         },
         {
@@ -152,7 +952,7 @@
             "url": "https://www.wired.com/story/iran-war-puts-global-energy-markets-on-the-brink-of-a-worst-case-scenario/",
             "description": "“This will be so, so, so, so, so bad,” one analyst says.",
             "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:04:32.462361",
+            "scraped_at": "2026-04-21T11:09:31.313142",
             "source": "Wired.com"
         },
         {
@@ -160,7 +960,7 @@
             "url": "https://www.wired.com/story/nasa-wants-to-put-nuclear-reactors-on-the-moon/",
             "description": "The White House has announced that NASA will work with the Departments of Defense and Energy to put nuclear reactors in orbit and on the surface of the moon.",
             "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:04:32.541179",
+            "scraped_at": "2026-04-21T11:09:31.402144",
             "source": "Wired.com"
         },
         {
@@ -168,7 +968,7 @@
             "url": "https://www.wired.com/story/the-caves-that-could-help-us-find-or-become-aliens/",
             "description": "From lava tubes on Mars to ice pockets on Europa, subterranean environments may offer the best chance of finding life—and living safely—beyond our planet.",
             "author": "By Becky Ferreira",
-            "scraped_at": "2026-04-21T09:04:32.632665",
+            "scraped_at": "2026-04-21T11:09:31.487011",
             "source": "Wired.com"
         },
         {
@@ -176,7 +976,7 @@
             "url": "https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/",
             "description": "After traveling a greater distance from Earth than any humans before them, the astronauts of Artemis II have safely returned home.",
             "author": "By Jay Bennett",
-            "scraped_at": "2026-04-21T09:04:32.723817",
+            "scraped_at": "2026-04-21T11:09:31.559428",
             "source": "Wired.com"
         },
         {
@@ -184,7 +984,7 @@
             "url": "https://www.wired.com/story/the-future-of-the-artemis-program-is-riding-on-reentry/",
             "description": "Entire space programs have been canceled after a failure in the reentry phase. In the final test for Artemis II, astronauts will travel at 32 times the speed of sound as they return from the moon.",
             "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:04:32.801343",
+            "scraped_at": "2026-04-21T11:09:31.646848",
             "source": "Wired.com"
         },
         {
@@ -192,7 +992,7 @@
             "url": "https://www.wired.com/story/a-quantum-leap-for-the-turing-award/",
             "description": "Charles Bennett and Gilles Brassard pioneered quantum information theory. Now they’ve been awarded the highest honor in computer science.",
             "author": "By Steven Levy",
-            "scraped_at": "2026-04-21T09:04:32.876831",
+            "scraped_at": "2026-04-21T11:09:31.728374",
             "source": "Wired.com"
         },
         {
@@ -200,7 +1000,7 @@
             "url": "https://www.wired.com/story/you-can-approximate-pi-by-dropping-needles-on-the-floor/",
             "description": "Who needs a supercomputer when you can calculate pi with a box of sewing needles?",
             "author": "By Rhett Allain",
-            "scraped_at": "2026-04-21T09:04:32.963919",
+            "scraped_at": "2026-04-21T11:09:31.820850",
             "source": "Wired.com"
         },
         {
@@ -208,7 +1008,7 @@
             "url": "https://www.wired.com/story/how-can-a-locomotive-pull-a-train-thats-much-heavier/",
             "description": "For railroads, it’s all about managing static and kinetic friction.",
             "author": "By Rhett Allain",
-            "scraped_at": "2026-04-21T09:04:33.095159",
+            "scraped_at": "2026-04-21T11:09:31.901044",
             "source": "Wired.com"
         },
         {
@@ -216,7 +1016,7 @@
             "url": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
             "description": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
             "author": "By Rhett Allain",
-            "scraped_at": "2026-04-21T09:04:33.172626",
+            "scraped_at": "2026-04-21T11:09:31.986066",
             "source": "Wired.com"
         },
         {
@@ -224,7 +1024,7 @@
             "url": "https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/",
             "description": "California-based startup Sabi is developing a thought-to-text wearable that could usher in the cyborg future.",
             "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:04:33.251038",
+            "scraped_at": "2026-04-21T11:09:32.061447",
             "source": "Wired.com"
         },
         {
@@ -232,7 +1032,7 @@
             "url": "https://www.wired.com/story/a-new-implant-aims-to-rewire-the-brain-to-help-stroke-patients/",
             "description": "Epia Neuro’s brain-computer interface will include a motorized glove to help stroke patients recover movement in their hand.",
             "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:04:33.318286",
+            "scraped_at": "2026-04-21T11:09:32.151815",
             "source": "Wired.com"
         },
         {
@@ -240,7 +1040,7 @@
             "url": "https://www.wired.com/story/meet-the-man-making-music-with-his-brain-implant/",
             "description": "Galen Buckwalter says brain-computer interfaces will have to be enjoyable to use if the technology is going to be successful.",
             "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:04:33.386404",
+            "scraped_at": "2026-04-21T11:09:32.233706",
             "source": "Wired.com"
         },
         {
@@ -248,7 +1048,7 @@
             "url": "https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/",
             "description": "R3 Bio has a bold idea for replacing lab animals: genetically-engineered whole organ systems that lack a brain. The long-term goal, says a cofounder, is to make human versions.",
             "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:04:33.456736",
+            "scraped_at": "2026-04-21T11:09:32.308484",
             "source": "Wired.com"
         },
         {
@@ -256,7 +1056,7 @@
             "url": "https://www.wired.com/story/study-of-buddhist-monks-finds-meditation-alters-brain-activity/",
             "description": "Meditation isn’t thinking about nothing. New research reinforces that it’s a mind-altering, dynamic state that promotes focus, learning, and well-being.",
             "author": "By Javier Carbajal",
-            "scraped_at": "2026-04-21T09:04:33.522849",
+            "scraped_at": "2026-04-21T11:09:32.396238",
             "source": "Wired.com"
         },
         {
@@ -264,7 +1064,7 @@
             "url": "https://www.wired.com/story/neuroscience-procrastination-brain-mechanism-task-avoidance/",
             "description": "New research has discovered that a neural circuit may explain procrastination. Scientists were able to disrupt this connection using a drug.",
             "author": "By Fernanda González",
-            "scraped_at": "2026-04-21T09:04:33.589182",
+            "scraped_at": "2026-04-21T11:09:32.517042",
             "source": "Wired.com"
         },
         {
@@ -272,7 +1072,7 @@
             "url": "https://www.wired.com/story/expired-tired-wired-wearables/",
             "description": "Smartwatches are cool and all, but have you considered wearable neurotech?",
             "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:04:33.657956",
+            "scraped_at": "2026-04-21T11:09:32.605463",
             "source": "Wired.com"
         },
         {
@@ -280,7 +1080,7 @@
             "url": "https://www.wired.com/story/ai-sentient-consciousness-algorithm/",
             "description": "Some of the world’s most interesting thinkers about thinking think they might’ve cracked machine sentience. And I think they might be onto something.",
             "author": "By Will Knight",
-            "scraped_at": "2026-04-21T09:04:33.751953",
+            "scraped_at": "2026-04-21T11:09:32.683140",
             "source": "Wired.com"
         },
         {
@@ -288,7 +1088,7 @@
             "url": "https://www.wired.com/story/dark-matter-may-be-made-of-black-holes-from-another-universe/",
             "description": "-",
             "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:04:33.835477",
+            "scraped_at": "2026-04-21T11:09:32.747877",
             "source": "Wired.com"
         },
         {
@@ -296,7 +1096,7 @@
             "url": "https://www.wired.com/story/shingles-is-a-bigger-deal-than-you-think/",
             "description": "-",
             "author": "By Rosie Taylor",
-            "scraped_at": "2026-04-21T09:04:33.935143",
+            "scraped_at": "2026-04-21T11:09:32.812718",
             "source": "Wired.com"
         },
         {
@@ -304,7 +1104,7 @@
             "url": "https://www.wired.com/story/no-one-knows-where-us-vaccine-policy-goes-next/",
             "description": "-",
             "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:04:34.049896",
+            "scraped_at": "2026-04-21T11:09:32.867619",
             "source": "Wired.com"
         },
         {
@@ -312,7 +1112,7 @@
             "url": "https://www.wired.com/story/how-and-when-to-watch-the-artemis-ii-missions-return-to-earth/",
             "description": "-",
             "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:04:34.139275",
+            "scraped_at": "2026-04-21T11:09:32.927185",
             "source": "Wired.com"
         },
         {
@@ -320,7 +1120,7 @@
             "url": "https://www.wired.com/story/artemis-ii-astronauts-witnessed-6-meteorites-collide-with-the-moon/",
             "description": "-",
             "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:04:34.236601",
+            "scraped_at": "2026-04-21T11:09:32.987002",
             "source": "Wired.com"
         },
         {
@@ -328,7 +1128,7 @@
             "url": "https://www.wired.com/story/artemis-iis-breathtaking-view-of-the-far-side-of-the-moon/",
             "description": "-",
             "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:04:34.333314",
+            "scraped_at": "2026-04-21T11:09:33.045014",
             "source": "Wired.com"
         },
         {
@@ -336,7 +1136,7 @@
             "url": "https://www.wired.com/story/artemis-ii-everything-we-know-as-orion-approaches-the-far-side-of-the-moon/",
             "description": "-",
             "author": "By Javier Carbajal",
-            "scraped_at": "2026-04-21T09:04:34.415228",
+            "scraped_at": "2026-04-21T11:09:33.104403",
             "source": "Wired.com"
         },
         {
@@ -344,7 +1144,7 @@
             "url": "https://www.wired.com/story/5-mysteries-that-the-artemis-missions-to-the-moon-could-finally-solve/",
             "description": "-",
             "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:04:34.500601",
+            "scraped_at": "2026-04-21T11:09:33.162929",
             "source": "Wired.com"
         },
         {
@@ -352,7 +1152,7 @@
             "url": "https://www.wired.com/story/the-trajectory-of-the-artemis-ii-moon-mission-is-a-feat-of-engineering/",
             "description": "-",
             "author": "By Luca Nardi",
-            "scraped_at": "2026-04-21T09:04:34.589410",
+            "scraped_at": "2026-04-21T11:09:33.224225",
             "source": "Wired.com"
         },
         {
@@ -360,7 +1160,7 @@
             "url": "https://www.wired.com/story/artemis-ii-moon-mission-launches-successfully/",
             "description": "-",
             "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:04:34.663118",
+            "scraped_at": "2026-04-21T11:09:33.284253",
             "source": "Wired.com"
         },
         {
@@ -368,7 +1168,7 @@
             "url": "https://www.wired.com/story/these-are-the-4-artemis-ii-astronauts-leading-the-historic-return-to-the-moon/",
             "description": "-",
             "author": "By Fernanda González",
-            "scraped_at": "2026-04-21T09:04:34.763304",
+            "scraped_at": "2026-04-21T11:09:33.349144",
             "source": "Wired.com"
         },
         {
@@ -376,7 +1176,7 @@
             "url": "https://www.wired.com/story/the-us-militarys-gps-software-is-an-8-billion-mess/",
             "description": "-",
             "author": "By Stephen Clark, Ars Technica",
-            "scraped_at": "2026-04-21T09:04:34.848871",
+            "scraped_at": "2026-04-21T11:09:33.417689",
             "source": "Wired.com"
         },
         {
@@ -384,7 +1184,7 @@
             "url": "https://www.wired.com/story/gaza-war-al-shifa-hospital-ghosts/",
             "description": "-",
             "author": "By Spencer Ackerman",
-            "scraped_at": "2026-04-21T09:04:34.941522",
+            "scraped_at": "2026-04-21T11:09:33.494811",
             "source": "Wired.com"
         },
         {
@@ -392,7 +1192,7 @@
             "url": "https://www.wired.com/story/the-trip-to-the-far-side-of-the-moon-nasa-artemis/",
             "description": "-",
             "author": "By Jay Bennett",
-            "scraped_at": "2026-04-21T09:04:35.034567",
+            "scraped_at": "2026-04-21T11:09:33.578747",
             "source": "Wired.com"
         },
         {
@@ -400,7 +1200,7 @@
             "url": "https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/",
             "description": "-",
             "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:04:35.128505",
+            "scraped_at": "2026-04-21T11:09:33.651364",
             "source": "Wired.com"
         },
         {
@@ -408,7 +1208,7 @@
             "url": "https://www.wired.com/story/get-ready-for-a-year-of-chaotic-weather-in-the-us/",
             "description": "-",
             "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:04:35.217972",
+            "scraped_at": "2026-04-21T11:09:33.805104",
             "source": "Wired.com"
         },
         {
@@ -416,7 +1216,7 @@
             "url": "https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-their-feet/",
             "description": "-",
             "author": "By Marta Musso",
-            "scraped_at": "2026-04-21T09:04:35.311384",
+            "scraped_at": "2026-04-21T11:09:33.881322",
             "source": "Wired.com"
         },
         {
@@ -424,7 +1224,7 @@
             "url": "https://www.wired.com/story/japan-approves-the-worlds-first-treatment-made-with-reprogrammed-human-cells/",
             "description": "-",
             "author": "By Ritsuko Kawai",
-            "scraped_at": "2026-04-21T09:04:35.410737",
+            "scraped_at": "2026-04-21T11:09:33.952556",
             "source": "Wired.com"
         },
         {
@@ -432,7 +1232,7 @@
             "url": "https://www.wired.com/story/shingles-virus-aging/",
             "description": "-",
             "author": "By David Cox",
-            "scraped_at": "2026-04-21T09:04:35.488219",
+            "scraped_at": "2026-04-21T11:09:34.017605",
             "source": "Wired.com"
         },
         {
@@ -440,7 +1240,7 @@
             "url": "https://www.wired.com/story/the-south-carolina-measles-outbreak-is-slowing-down/",
             "description": "-",
             "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:04:35.570052",
+            "scraped_at": "2026-04-21T11:09:34.086679",
             "source": "Wired.com"
         },
         {
@@ -448,7 +1248,7 @@
             "url": "https://www.wired.com/story/sleep-apnea-treatment-tech/",
             "description": "-",
             "author": "By Anna Mckie",
-            "scraped_at": "2026-04-21T09:05:30.911448",
+            "scraped_at": "2026-04-21T11:09:52.955209",
             "source": "Wired.com"
         },
         {
@@ -456,7 +1256,7 @@
             "url": "https://www.wired.com/story/interstellar-comet-3i-atlas-has-another-surprise-its-full-of-alcohol/",
             "description": "-",
             "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:05:30.982047",
+            "scraped_at": "2026-04-21T11:09:53.042534",
             "source": "Wired.com"
         },
         {
@@ -464,7 +1264,7 @@
             "url": "https://www.wired.com/story/dont-expect-big-surprises-in-the-governments-alien-files/",
             "description": "-",
             "author": "By Becky Ferreira",
-            "scraped_at": "2026-04-21T09:05:31.119237",
+            "scraped_at": "2026-04-21T11:09:53.212085",
             "source": "Wired.com"
         },
         {
@@ -472,7 +1272,7 @@
             "url": "https://www.wired.com/story/why-rfks-cdc-is-endorsing-shared-decision-making-for-vaccines/",
             "description": "-",
             "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:05:31.190775",
+            "scraped_at": "2026-04-21T11:09:53.329766",
             "source": "Wired.com"
         },
         {
@@ -480,7 +1280,7 @@
             "url": "https://www.wired.com/story/left-handed-people-are-more-competitive-says-science/",
             "description": "-",
             "author": "By Javier Carbajal",
-            "scraped_at": "2026-04-21T09:05:31.261424",
+            "scraped_at": "2026-04-21T11:09:53.417964",
             "source": "Wired.com"
         },
         {
@@ -488,7 +1288,7 @@
             "url": "https://www.wired.com/story/sleep-apnea-women-detection-treatment/",
             "description": "-",
             "author": "By Anna Mckie",
-            "scraped_at": "2026-04-21T09:05:31.344214",
+            "scraped_at": "2026-04-21T11:09:53.556848",
             "source": "Wired.com"
         },
         {
@@ -496,7 +1296,7 @@
             "url": "https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/",
             "description": "-",
             "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:05:31.430052",
+            "scraped_at": "2026-04-21T11:09:53.676486",
             "source": "Wired.com"
         },
         {
@@ -504,7 +1304,7 @@
             "url": "https://www.wired.com/story/synchron-brain-computer-interface-five-years-als/",
             "description": "-",
             "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:05:31.591416",
+            "scraped_at": "2026-04-21T11:09:53.947815",
             "source": "Wired.com"
         },
         {
@@ -512,7 +1312,7 @@
             "url": "https://www.wired.com/story/war-in-iran-sent-oil-prices-up-trump-will-decide-how-high-they-go/",
             "description": "-",
             "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:05:31.670424",
+            "scraped_at": "2026-04-21T11:09:54.072908",
             "source": "Wired.com"
         },
         {
@@ -520,7 +1320,7 @@
             "url": "https://www.wired.com/story/nasa-is-making-big-changes-to-speed-up-the-artemis-program/",
             "description": "-",
             "author": "By Eric Berger, Ars Technica",
-            "scraped_at": "2026-04-21T09:05:31.764929",
+            "scraped_at": "2026-04-21T11:09:54.158693",
             "source": "Wired.com"
         },
         {
@@ -528,7 +1328,7 @@
             "url": "https://www.wired.com/story/this-is-the-worst-thing-that-could-happen-to-the-international-space-station/",
             "description": "-",
             "author": "By Rebecca Heilweil",
-            "scraped_at": "2026-04-21T09:05:31.864464",
+            "scraped_at": "2026-04-21T11:09:54.227020",
             "source": "Wired.com"
         },
         {
@@ -536,7 +1336,7 @@
             "url": "https://www.wired.com/story/the-us-had-a-big-battery-boom-last-year/",
             "description": "-",
             "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:05:32.093491",
+            "scraped_at": "2026-04-21T11:09:54.344664",
             "source": "Wired.com"
         },
         {
@@ -544,7 +1344,7 @@
             "url": "https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/",
             "description": "-",
             "author": "By Javier Carbajal And Jorge Garay",
-            "scraped_at": "2026-04-21T09:06:04.269838",
+            "scraped_at": "2026-04-21T11:10:09.836150",
             "source": "Wired.com"
         },
         {
@@ -552,7 +1352,7 @@
             "url": "https://www.wired.com/story/how-to-view-the-blood-moon-total-lunar-eclipse-on-march-3/",
             "description": "-",
             "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:06:04.443654",
+            "scraped_at": "2026-04-21T11:10:09.927965",
             "source": "Wired.com"
         },
         {
@@ -560,7 +1360,7 @@
             "url": "https://www.wired.com/story/a-galaxy-composed-almost-entirely-of-dark-matter-has-been-confirmed/",
             "description": "-",
             "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:06:04.581815",
+            "scraped_at": "2026-04-21T11:10:10.020897",
             "source": "Wired.com"
         },
         {
@@ -568,7 +1368,7 @@
             "url": "https://www.wired.com/story/the-cdc-has-a-leadership-crisis/",
             "description": "-",
             "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:06:04.711895",
+            "scraped_at": "2026-04-21T11:10:10.106517",
             "source": "Wired.com"
         },
         {
@@ -576,7 +1376,7 @@
             "url": "https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/",
             "description": "-",
             "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:06:04.957435",
+            "scraped_at": "2026-04-21T11:10:10.264675",
             "source": "Wired.com"
         },
         {
@@ -584,7 +1384,7 @@
             "url": "https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/",
             "description": "-",
             "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:06:05.085450",
+            "scraped_at": "2026-04-21T11:10:10.351394",
             "source": "Wired.com"
         },
         {
@@ -592,7 +1392,7 @@
             "url": "https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/",
             "description": "-",
             "author": "By George Musser",
-            "scraped_at": "2026-04-21T09:06:05.229086",
+            "scraped_at": "2026-04-21T11:10:10.462129",
             "source": "Wired.com"
         },
         {
@@ -600,7 +1400,7 @@
             "url": "https://www.wired.com/story/record-low-snow-in-the-west-will-mean-less-water-more-fire-and-political-chaos/",
             "description": "-",
             "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:06:05.422434",
+            "scraped_at": "2026-04-21T11:10:10.559994",
             "source": "Wired.com"
         },
         {
@@ -608,7 +1408,7 @@
             "url": "https://www.wired.com/story/the-fight-over-us-climate-rules-is-just-beginning/",
             "description": "-",
             "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:06:05.572634",
+            "scraped_at": "2026-04-21T11:10:10.646180",
             "source": "Wired.com"
         },
         {
@@ -616,7 +1416,7 @@
             "url": "https://www.wired.com/story/astronomers-are-closing-in-on-the-kuiper-belts-secrets/",
             "description": "-",
             "author": "By Becky Ferreira",
-            "scraped_at": "2026-04-21T09:06:05.867653",
+            "scraped_at": "2026-04-21T11:10:10.826556",
             "source": "Wired.com"
         },
         {
@@ -624,7 +1424,7 @@
             "url": "https://www.wired.com/story/2026-winter-olympics-figure-skating-quadruple-axel-science/",
             "description": "-",
             "author": "By Marta Musso",
-            "scraped_at": "2026-04-21T09:06:06.688828",
+            "scraped_at": "2026-04-21T11:10:10.940620",
             "source": "Wired.com"
         },
         {
@@ -632,7 +1432,7 @@
             "url": "https://www.wired.com/story/rfk-jr-says-americans-need-more-protein-his-grok-powered-food-website-disagrees/",
             "description": "-",
             "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:06:06.834867",
+            "scraped_at": "2026-04-21T11:10:11.025423",
             "source": "Wired.com"
         },
         {
@@ -640,7 +1440,7 @@
             "url": "https://www.wired.com/story/general-galactic-water-rocket-fuel-test/",
             "description": "-",
             "author": "By Noah Shachtman",
-            "scraped_at": "2026-04-21T09:06:06.980008",
+            "scraped_at": "2026-04-21T11:10:11.101253",
             "source": "Wired.com"
         },
         {
@@ -648,7 +1448,7 @@
             "url": "https://www.wired.com/story/rfk-jr-s-picks-for-a-key-autism-panel-include-advocates-for-bizarre-theories/",
             "description": "-",
             "author": "By David Gilbert",
-            "scraped_at": "2026-04-21T09:06:07.164860",
+            "scraped_at": "2026-04-21T11:10:11.169411",
             "source": "Wired.com"
         },
         {
@@ -656,7 +1456,7 @@
             "url": "https://www.wired.com/story/new-york-is-the-latest-state-to-consider-a-data-center-pause/",
             "description": "-",
             "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:06:07.312185",
+            "scraped_at": "2026-04-21T11:10:11.240206",
             "source": "Wired.com"
         },
         {
@@ -664,7 +1464,7 @@
             "url": "https://www.wired.com/story/why-the-artemis-ii-crew-stays-in-quarantine-before-their-journey-to-moon/",
             "description": "-",
             "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:06:07.425152",
+            "scraped_at": "2026-04-21T11:10:11.320364",
             "source": "Wired.com"
         },
         {
@@ -672,7 +1472,7 @@
             "url": "https://www.wired.com/story/figure-skating-2026-winter-olympics-pushing-the-limits/",
             "description": "-",
             "author": "By Dvora Meyers",
-            "scraped_at": "2026-04-21T09:06:07.585404",
+            "scraped_at": "2026-04-21T11:10:11.397003",
             "source": "Wired.com"
         },
         {
@@ -680,7 +1480,7 @@
             "url": "https://www.wired.com/story/public-health-workers-are-quitting-over-assignments-to-guantanamo/",
             "description": "-",
             "author": "By Amy Maxmen, Kff Health News",
-            "scraped_at": "2026-04-21T09:06:07.737121",
+            "scraped_at": "2026-04-21T11:10:11.465385",
             "source": "Wired.com"
         },
         {
@@ -688,7 +1488,7 @@
             "url": "https://www.wired.com/story/titanic-structures-earth-magnetic-field-millions-of-years/",
             "description": "-",
             "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:06:41.024333",
+            "scraped_at": "2026-04-21T11:10:44.435744",
             "source": "Wired.com"
         },
         {
@@ -696,7 +1496,7 @@
             "url": "https://www.wired.com/story/winter-olympics-2026-impacts-snow/",
             "description": "-",
             "author": "By Marta Abbà",
-            "scraped_at": "2026-04-21T09:06:41.148605",
+            "scraped_at": "2026-04-21T11:10:44.546617",
             "source": "Wired.com"
         },
         {
@@ -704,7 +1504,7 @@
             "url": "https://www.wired.com/story/measles-is-causing-brain-swelling-in-children-in-south-carolina/",
             "description": "-",
             "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:06:41.280552",
+            "scraped_at": "2026-04-21T11:10:44.642839",
             "source": "Wired.com"
         },
         {
@@ -712,7 +1512,7 @@
             "url": "https://www.wired.com/story/pregnancy-zero-trimester-influencers/",
             "description": "-",
             "author": "By Currie Engel",
-            "scraped_at": "2026-04-21T09:06:41.410780",
+            "scraped_at": "2026-04-21T11:10:44.726811",
             "source": "Wired.com"
         },
         {
@@ -720,7 +1520,7 @@
             "url": "https://www.wired.com/story/hhs-is-making-an-ai-tool-to-create-hypotheses-about-vaccine-injury-claims/",
             "description": "-",
             "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:06:41.569256",
+            "scraped_at": "2026-04-21T11:10:44.815180",
             "source": "Wired.com"
         },
         {
@@ -728,7 +1528,7 @@
             "url": "https://www.wired.com/story/climate-change-heat-sleep-apnea/",
             "description": "-",
             "author": "By David Cox",
-            "scraped_at": "2026-04-21T09:06:41.755991",
+            "scraped_at": "2026-04-21T11:10:44.917579",
             "source": "Wired.com"
         },
         {
@@ -736,7 +1536,7 @@
             "url": "https://www.wired.com/story/hhs-is-using-ai-tools-from-palantir-to-target-dei-and-gender-ideology-in-grants/",
             "description": "-",
             "author": "By Caroline Haskins",
-            "scraped_at": "2026-04-21T09:06:41.890506",
+            "scraped_at": "2026-04-21T11:10:45.022243",
             "source": "Wired.com"
         },
         {
@@ -744,7 +1544,7 @@
             "url": "https://www.wired.com/story/how-to-use-physics-to-escape-an-ice-bowl/",
             "description": "-",
             "author": "By Rhett Allain",
-            "scraped_at": "2026-04-21T09:06:42.025140",
+            "scraped_at": "2026-04-21T11:10:45.132049",
             "source": "Wired.com"
         },
         {
@@ -752,7 +1552,7 @@
             "url": "https://www.wired.com/story/microdosing-for-depression-appears-to-work-about-as-well-as-drinking-coffee/",
             "description": "-",
             "author": "By John Semley",
-            "scraped_at": "2026-04-21T09:06:42.211552",
+            "scraped_at": "2026-04-21T11:10:45.429440",
             "source": "Wired.com"
         },
         {
@@ -760,7 +1560,7 @@
             "url": "https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/",
             "description": "-",
             "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:06:42.323254",
+            "scraped_at": "2026-04-21T11:10:45.628166",
             "source": "Wired.com"
         },
         {
@@ -768,7 +1568,7 @@
             "url": "https://www.wired.com/story/data-centers-are-driving-a-us-gas-boom/",
             "description": "-",
             "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:06:42.473513",
+            "scraped_at": "2026-04-21T11:10:45.722583",
             "source": "Wired.com"
         },
         {
@@ -776,7 +1576,7 @@
             "url": "https://www.wired.com/story/the-doomsday-clock-is-now-85-seconds-to-midnight-heres-what-that-means/",
             "description": "-",
             "author": "By Marta Musso",
-            "scraped_at": "2026-04-21T09:06:42.613942",
+            "scraped_at": "2026-04-21T11:10:45.805859",
             "source": "Wired.com"
         },
         {
@@ -784,7 +1584,7 @@
             "url": "https://www.wired.com/story/a-north-atlantic-right-whale-baby-boom-is-on-but-the-species-remains-at-risk/",
             "description": "-",
             "author": "By Chris Baraniuk",
-            "scraped_at": "2026-04-21T09:06:42.725017",
+            "scraped_at": "2026-04-21T11:10:45.883808",
             "source": "Wired.com"
         },
         {
@@ -792,7 +1592,7 @@
             "url": "https://www.wired.com/story/no-one-is-quite-sure-why-ice-is-slippery/",
             "description": "-",
             "author": "By Paulina Rowińska",
-            "scraped_at": "2026-04-21T09:06:43.530315",
+            "scraped_at": "2026-04-21T11:10:46.013635",
             "source": "Wired.com"
         },
         {
@@ -800,807 +1600,807 @@
             "url": "https://www.wired.com/story/the-us-is-in-for-another-bad-year-of-measles-cases/",
             "description": "-",
             "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:06:43.655939",
+            "scraped_at": "2026-04-21T11:10:46.108310",
             "source": "Wired.com"
         },
         {
-            "title": "What We Know About the Winter Storm About to Hit the US—and What We Don’t",
-            "url": "https://www.wired.com/story/winter-storm-about-to-hit-the-us-snow-freezing-rain/",
+            "title": "The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad",
+            "url": "https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/",
+            "description": "Years before the figure skater became an Olympic superstar, a Chinese operative tried to stalk her father and monitored other US residents deemed dissidents against China. And that’s just the beginning.",
+            "author": "By Timothy Mclaughlin",
+            "scraped_at": "2026-04-21T11:11:18.304077",
+            "source": "Wired.com"
+        },
+        {
+            "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+            "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
             "description": "-",
-            "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:06:43.787441",
+            "author": "By Dell Cameron, Maddy Varner, Andy Greenberg, And Andrew Couts",
+            "scraped_at": "2026-04-21T11:11:18.393657",
             "source": "Wired.com"
         },
         {
-            "title": "The AI Boom Will Increase US Carbon Emissions—but It Doesn’t Have To",
-            "url": "https://www.wired.com/story/the-ai-boom-will-increase-us-carbon-emissions-but-it-doesnt-have-to/",
+            "title": "Republican Mutiny Sinks Trump's Push to Extend Warrantless Surveillance",
+            "url": "https://www.wired.com/story/republican-mutiny-sinks-trumps-push-to-extend-warrantless-surveillance/",
             "description": "-",
-            "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:06:43.984863",
+            "author": "By Dell Cameron",
+            "scraped_at": "2026-04-21T11:11:18.469160",
             "source": "Wired.com"
         },
         {
-            "title": "‘Veronika’ Is the First Cow Known to Use a Tool",
-            "url": "https://www.wired.com/story/veronika-is-the-first-cow-known-to-use-a-tool/",
+            "title": "The Dumbest Hack of the Year Exposed a Very Real Problem",
+            "url": "https://www.wired.com/story/crosswalk-city-hack-cybersecurity-lessons/",
+            "description": "Last April, a hacker hijacked crosswalk announcements to mimic Mark Zuckerberg and Elon Musk. Records obtained by WIRED reveal how unprepared local authorities were.",
+            "author": "By Paresh Dave",
+            "scraped_at": "2026-04-21T11:11:18.558908",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Your Push Notifications Aren’t Safe From the FBI",
+            "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
+            "description": "Plus: Iran’s internet blackout hits the 1,000-hour mark, cryptocurrency scams result in a record amount of money stolen from Americans, and more.",
+            "author": "By Matt Burgess, Maddy Varner, Lily Hay Newman, And Dell Cameron",
+            "scraped_at": "2026-04-21T11:11:18.651935",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
+            "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+            "description": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
+            "author": "By Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:11:18.738491",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Politicians Are Spending More Money on Security as They Increasingly Become Targets",
+            "url": "https://www.wired.com/story/political-campaign-security-spending/",
+            "description": "Political candidates are purchasing more home alarms, bulletproof vests, and other protections amid rising fears of political violence.",
+            "author": "By Maddy Varner",
+            "scraped_at": "2026-04-21T11:11:18.828406",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Shocking Secrets of Madison Square Garden’s Surveillance Machine",
+            "url": "https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/",
+            "description": "Famously vengeful Knicks owner Jim Dolan has long spied on people at his iconic arenas. WIRED goes deep inside the operation that allegedly tracked a trans woman, lawyers, protesters, and more.",
+            "author": "By Noah Shachtman And Robert Silverman",
+            "scraped_at": "2026-04-21T11:11:18.923641",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Europe’s Online Age Verification App Is Here",
+            "url": "https://www.wired.com/story/europes-online-age-verification-app-is-here/",
+            "description": "Available for free to any company that wants to use it, the “completely anonymous” app puts the pressure on porn sites and social media platforms to start blocking access by minors.",
+            "author": "By Valentina Neri",
+            "scraped_at": "2026-04-21T11:11:19.009826",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
+            "url": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
+            "description": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigrants, and LGBTQ+ people.",
+            "author": "By Dell Cameron",
+            "scraped_at": "2026-04-21T11:11:19.088802",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+            "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+            "description": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
+            "author": "By Andy Greenberg, Dell Cameron, Maddy Varner, And Andrew Couts",
+            "scraped_at": "2026-04-21T11:11:19.190393",
+            "source": "Wired.com"
+        },
+        {
+            "title": "How the Internet Broke Everyone’s Bullshit Detectors",
+            "url": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
+            "description": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
+            "author": "By Gia Chaudry",
+            "scraped_at": "2026-04-21T11:11:19.269815",
+            "source": "Wired.com"
+        },
+        {
+            "title": "How to Organize Safely in the Age of Surveillance",
+            "url": "https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/",
+            "description": "From threat modeling to encrypted collaboration apps, we’ve collected experts’ tips and tools for safely and effectively building a group—even while being targeted and tracked by the powerful.",
+            "author": "By Andy Greenberg And Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:11:19.375504",
+            "source": "Wired.com"
+        },
+        {
+            "title": "How to Protest Safely in the Age of Surveillance",
+            "url": "https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/",
+            "description": "Law enforcement has more tools than ever to track your movements and access your communications. Here’s how to protect your privacy if you plan to protest.",
+            "author": "By Andy Greenberg And Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:11:19.511121",
+            "source": "Wired.com"
+        },
+        {
+            "title": "8 WhatsApp Features to Boost Your Security and Privacy",
+            "url": "https://www.wired.com/story/5-features-that-boost-security-and-privacy-on-whatsapp/",
+            "description": "Meta’s end-to-end encrypted messaging app is used by billions of people. Here’s how to make sure you’re one of the most locked-down ones out there.",
+            "author": "By Kate O'Flaherty",
+            "scraped_at": "2026-04-21T11:11:19.607390",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
+            "url": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/",
+            "description": "An analysis by WIRED and Indicator found nearly 90 schools and 600 students around the world impacted by AI-generated deepfake nude images—and the problem shows no signs of going away.",
+            "author": "By Matt Burgess",
+            "scraped_at": "2026-04-21T11:11:19.691345",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Telegram Is Still Hosting a Sanctioned $21 Billion Crypto Scammer Black Market",
+            "url": "https://www.wired.com/story/telegram-is-still-hosting-a-sanctioned-21-billion-crypto-scammer-black-market/",
+            "description": "The UK designated Xinbi Guarantee as an enabler of crypto scammers and human trafficking weeks ago. Telegram is still hosting it in plain sight.",
+            "author": "By Andy Greenberg",
+            "scraped_at": "2026-04-21T11:11:19.777958",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The FCC Has a Fast Lane for Complaints About Trump’s Media Critics",
+            "url": "https://www.wired.com/story/the-fcc-has-a-fast-lane-for-complaints-about-trumps-media-critics/",
+            "description": "Internal emails obtained by WIRED reveal how a conservative legal group with a direct line into FCC chairman Brendan Carr’s office built the case against Jimmy Kimmel and his employees.",
+            "author": "By Dell Cameron",
+            "scraped_at": "2026-04-21T11:11:19.861259",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Men Are Buying Hacking Tools to Use Against Their Wives and Friends",
+            "url": "https://www.wired.com/story/men-are-buying-hacking-tools-to-use-against-their-wives-and-friends/",
+            "description": "In Telegram groups, men are sharing thousands of nonconsensual images of women and girls, buying spyware, and engaging in doxing and sexual abuse.",
+            "author": "By Matt Burgess",
+            "scraped_at": "2026-04-21T11:11:19.933274",
+            "source": "Wired.com"
+        },
+        {
+            "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
+            "url": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
             "description": "-",
-            "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:06:44.128890",
+            "author": "By Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:11:20.000827",
             "source": "Wired.com"
         },
         {
-            "title": "He Went to Prison for Gene-Editing Babies. Now He’s Planning to Do It Again",
-            "url": "https://www.wired.com/story/china-he-jiankui-gene-editing-alzheimers/",
+            "title": "‘We Were Not Ready for This’: Lebanon's Emergency System Is Hanging by a Thread",
+            "url": "https://www.wired.com/story/we-were-not-ready-for-this-lebanons-emergency-system-is-hanging-by-a-thread/",
             "description": "-",
-            "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:06:44.455465",
+            "author": "By Carla Sertin",
+            "scraped_at": "2026-04-21T11:11:20.068593",
             "source": "Wired.com"
         },
         {
-            "title": "The Search for Alien Artifacts Is Coming Into Focus",
-            "url": "https://www.wired.com/story/the-search-for-alien-artifacts-is-coming-into-focus/",
+            "title": "Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure",
+            "url": "https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/",
             "description": "-",
-            "author": "By Becky Ferreira",
-            "scraped_at": "2026-04-21T09:06:44.700371",
+            "author": "By Andy Greenberg",
+            "scraped_at": "2026-04-21T11:11:20.124092",
             "source": "Wired.com"
         },
         {
-            "title": "Capturing the Moment a White Dwarf Exploded",
-            "url": "https://www.wired.com/story/capturing-the-moment-a-white-dwarf-exploded/",
+            "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
+            "url": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
             "description": "-",
-            "author": "By Ritsuko Kawai",
-            "scraped_at": "2026-04-21T09:07:04.173034",
+            "author": "By Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:11:20.188869",
             "source": "Wired.com"
         },
         {
-            "title": "How Does the Hive Mind Work in Pluribus?",
-            "url": "https://www.wired.com/story/how-does-the-hive-mind-work-in-pluribus/",
+            "title": "Border Patrol Agents Sold Challenge Coins With Charlotte’s Web Characters in Riot Gear",
+            "url": "https://www.wired.com/story/us-border-patrol-challenge-coins-nonprofits/",
             "description": "-",
-            "author": "By Rhett Allain",
-            "scraped_at": "2026-04-21T09:07:04.396859",
+            "author": "By Maddy Varner",
+            "scraped_at": "2026-04-21T11:11:20.264732",
             "source": "Wired.com"
         },
         {
-            "title": "OpenAI Invests in Sam Altman’s New Brain-Tech Startup Merge Labs",
-            "url": "https://www.wired.com/story/openai-invests-in-sam-altmans-new-brain-tech-startup-merge-labs/",
+            "title": "The Hack That Exposed Syria’s Sweeping Security Failures",
+            "url": "https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/",
             "description": "-",
-            "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:07:04.660628",
+            "author": "By Danny Makki",
+            "scraped_at": "2026-04-21T11:11:20.342504",
             "source": "Wired.com"
         },
         {
-            "title": "Microsoft Has a Plan to Keep Its Data Centers From Raising Your Electric Bill",
-            "url": "https://www.wired.com/story/microsoft-has-a-plan-to-keep-its-data-centers-from-raising-your-electric-bill/",
+            "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
+            "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
             "description": "-",
-            "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:07:04.923001",
+            "author": "By Maxwell Zeff, Zoë Schiffer, And Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:11:20.425336",
             "source": "Wired.com"
         },
         {
-            "title": "Trump Declared a Space Race With China. The US Is Losing",
-            "url": "https://www.wired.com/story/china-us-moon-race-trump-losing/",
+            "title": "CBP Facility Codes Sure Seem to Have Leaked Via Online Flashcards",
+            "url": "https://www.wired.com/story/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
             "description": "-",
-            "author": "By Noah Shachtman",
-            "scraped_at": "2026-04-21T09:07:05.063557",
+            "author": "By Sammy Sussman",
+            "scraped_at": "2026-04-21T11:11:20.519898",
             "source": "Wired.com"
         },
         {
-            "title": "Want to Stop Doomscrolling? You Might Need a Sleep Coach",
-            "url": "https://www.wired.com/story/your-next-job-sleep-coach/",
+            "title": "Uncanny Valley: Iran’s Threats on US Tech, Trump’s Plans for Midterms, and Polymarket’s Pop-up Flop",
+            "url": "https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/",
             "description": "-",
-            "author": "By Elana Klein",
-            "scraped_at": "2026-04-21T09:07:05.224574",
+            "author": "By Brian Barrett, Zoë Schiffer, Leah Feiger, Makena Kelly, And Kate Knibbs",
+            "scraped_at": "2026-04-21T11:11:20.610757",
             "source": "Wired.com"
         },
         {
-            "title": "Meta Is Making a Big Bet on Nuclear With Oklo",
-            "url": "https://www.wired.com/story/meta-is-making-a-big-bet-on-nuclear-with-oklo/",
+            "title": "Unmasking the Paramilitary Agents Behind Trump’s Violent Immigration Crackdown",
+            "url": "https://www.wired.com/story/border-patrol-bortac-borstar-use-of-force-midway-blitz/",
             "description": "-",
-            "author": "By Alexander C. Kaufman",
-            "scraped_at": "2026-04-21T09:07:05.368540",
+            "author": "By Ali Winston And Maddy Varner",
+            "scraped_at": "2026-04-21T11:11:20.760892",
             "source": "Wired.com"
         },
         {
-            "title": "Crispr Pioneer Launches Startup to Make Tailored Gene-Editing Treatments",
-            "url": "https://www.wired.com/story/crispr-pioneer-launches-startup-to-make-tailored-gene-editing-treatments/",
+            "title": "Apple Will Push Out Rare ‘Backported’ Patches to Protect iOS 18 Users From DarkSword Hacking Tool",
+            "url": "https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/",
             "description": "-",
-            "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:07:05.531841",
+            "author": "By Andy Greenberg",
+            "scraped_at": "2026-04-21T11:11:20.903124",
             "source": "Wired.com"
         },
         {
-            "title": "The Oceans Just Keep Getting Hotter",
-            "url": "https://www.wired.com/story/the-oceans-just-keep-getting-hotter/",
+            "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
+            "url": "https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/",
             "description": "-",
-            "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:07:05.672722",
+            "author": "By Dell Cameron And Louise Matsakis",
+            "scraped_at": "2026-04-21T11:11:21.005163",
             "source": "Wired.com"
         },
         {
-            "title": "True Patriots Are Cashing In on the Apocalypse",
-            "url": "https://www.wired.com/story/true-patriots-are-cashing-in-on-the-apocalypse/",
+            "title": "The Broken System That Keeps Shipping Crews Stranded in the Strait of Hormuz",
+            "url": "https://www.wired.com/story/legal-loopholes-leave-shipping-crews-stranded-in-the-strait-of-hormuz/",
             "description": "-",
-            "author": "By Jasper Craven",
-            "scraped_at": "2026-04-21T09:07:05.816742",
+            "author": "By Ruchi Kumar",
+            "scraped_at": "2026-04-21T11:11:21.222955",
             "source": "Wired.com"
         },
         {
-            "title": "Traces of Leonardo da Vinci’s DNA May Have Been Discovered on a Red Chalk Drawing Called Holy Child",
-            "url": "https://www.wired.com/story/traces-of-leonardo-da-vincis-dna-may-have-been-discovered-on-a-red-chalk-drawing-called-holy-child/",
+            "title": "Iranian Hackers Breached Kash Patel’s Email—but Not the FBI’s",
+            "url": "https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/",
             "description": "-",
-            "author": "By Marta Musso",
-            "scraped_at": "2026-04-21T09:07:06.581311",
+            "author": "By Andy Greenberg, Dell Cameron, Lily Hay Newman, And Andrew Couts",
+            "scraped_at": "2026-04-21T11:11:21.322152",
             "source": "Wired.com"
         },
         {
-            "title": "New Records Reveal the Mess RFK Jr. Left When He Dumped a Dead Bear in Central Park",
-            "url": "https://www.wired.com/story/rfk-jr-dead-bear-cub-central-park-photo/",
-            "description": "-",
-            "author": "By Caroline Haskins",
-            "scraped_at": "2026-04-21T09:07:06.891689",
-            "source": "Wired.com"
-        },
-        {
-            "title": "The Ancient Art of Nasal Rinsing Might Protect You From a Cold",
-            "url": "https://www.wired.com/story/cold-nose-washing-nasal-saline-rinse/",
-            "description": "-",
-            "author": "By David Cox",
-            "scraped_at": "2026-04-21T09:07:07.085090",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Flu Is Relentless. Crispr Might Be Able to Shut It Down",
-            "url": "https://www.wired.com/story/crispr-flu-antivirals/",
-            "description": "-",
-            "author": "By David Cox",
-            "scraped_at": "2026-04-21T09:07:07.208358",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Trump Wants Venezuela’s Oil. Getting It Might Not Be So Simple",
-            "url": "https://www.wired.com/story/trump-wants-venezuelas-oil-getting-it-might-not-be-so-simple/",
-            "description": "-",
-            "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:07:07.368727",
-            "source": "Wired.com"
-        },
-        {
-            "title": "A New Bridge Links the Strange Math of Infinity to Computer Science",
-            "url": "https://www.wired.com/story/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science/",
-            "description": "-",
-            "author": "By Joseph Howlett",
-            "scraped_at": "2026-04-21T09:07:07.546544",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Here’s How Long You Should Walk Every Day to Prevent Back Pain",
-            "url": "https://www.wired.com/story/heres-how-long-you-should-walk-every-day-to-prevent-back-pain/",
-            "description": "-",
-            "author": "By Ritsuko Kawai",
-            "scraped_at": "2026-04-21T09:07:07.734938",
-            "source": "Wired.com"
-        },
-        {
-            "title": "What Is the ‘Super Flu’ That Is Spreading in Europe and the United States?",
-            "url": "https://www.wired.com/story/what-is-super-flu-spreading-in-united-states-europe/",
-            "description": "-",
-            "author": "By Ritsuko Kawai",
-            "scraped_at": "2026-04-21T09:07:07.831553",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Poor Sleep Quality Accelerates Brain Aging",
-            "url": "https://www.wired.com/story/poor-sleep-quality-accelerates-brain-aging/",
-            "description": "-",
-            "author": "By Ritsuko Kawai",
-            "scraped_at": "2026-04-21T09:07:07.942487",
-            "source": "Wired.com"
-        },
-        {
-            "title": "The Great Big Power Play",
-            "url": "https://www.wired.com/story/expired-tired-wired-nuclear-plants/",
-            "description": "-",
-            "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:07:30.206730",
-            "source": "Wired.com"
-        },
-        {
-            "title": "The Earth Is Nearing an Environmental Tipping Point",
-            "url": "https://www.wired.com/story/the-earth-is-nearing-an-environmental-tipping-point/",
-            "description": "-",
-            "author": "By Johan Rockström",
-            "scraped_at": "2026-04-21T09:07:30.322125",
-            "source": "Wired.com"
-        },
-        {
-            "title": "People Who Drink Bottled Water on a Daily Basis Ingest 90,000 More Microplastic Particles Each Year",
-            "url": "https://www.wired.com/story/people-who-drink-bottled-water-on-a-daily-basis-ingest-90000-more-microplastics-per-year/",
-            "description": "-",
-            "author": "By Ritsuko Kawai",
-            "scraped_at": "2026-04-21T09:07:30.433149",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Behold the Manifold, the Concept that Changed How Mathematicians View Space",
-            "url": "https://www.wired.com/story/behold-the-manifold-the-concept-that-changed-how-mathematicians-view-space/",
-            "description": "-",
-            "author": "By Paulina Rowińska",
-            "scraped_at": "2026-04-21T09:07:30.536952",
-            "source": "Wired.com"
-        },
-        {
-            "title": "The Environmental and Human Rights Costs of China’s Clean Energy Investments Abroad",
-            "url": "https://www.wired.com/story/chinas-clean-energy-investments-abroad-are-a-boon-for-climate-but-human-rights-and-the-environment-are-a-different-story/",
-            "description": "-",
-            "author": "By Nicholas Kusnetz",
-            "scraped_at": "2026-04-21T09:07:30.676791",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Could You Use a Rowboat to Walk on the Seafloor Like Jack Sparrow?",
-            "url": "https://www.wired.com/story/using-a-rowboat-to-walk-on-the-seafloor-like-jack-sparrow/",
-            "description": "-",
-            "author": "By Rhett Allain",
-            "scraped_at": "2026-04-21T09:07:30.863701",
-            "source": "Wired.com"
-        },
-        {
-            "title": "‘Wolf DNA’ Lurks in Many Modern Dog Breeds",
-            "url": "https://www.wired.com/story/wolf-dna-lurks-in-many-modern-dog-breeds/",
-            "description": "-",
-            "author": "By Ritsuko Kawai",
-            "scraped_at": "2026-04-21T09:07:31.034635",
-            "source": "Wired.com"
-        },
-        {
-            "title": "AlphaFold Changed Science. After 5 Years, It’s Still Evolving",
-            "url": "https://www.wired.com/story/alphafold-changed-science-after-5-years-its-still-evolving/",
-            "description": "-",
-            "author": "By Sandro Iannaccone",
-            "scraped_at": "2026-04-21T09:07:31.246165",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Data Holds the Key in Slowing Age-Related Illnesses",
-            "url": "https://www.wired.com/story/data-holds-the-key-in-slowing-age-related-illnesses/",
-            "description": "-",
-            "author": "By Eric Topol",
-            "scraped_at": "2026-04-21T09:07:31.392498",
-            "source": "Wired.com"
-        },
-        {
-            "title": "FDA Approves Pill Version of Wegovy",
-            "url": "https://www.wired.com/story/fda-approves-pill-version-of-wegovy/",
-            "description": "-",
-            "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:07:31.535599",
-            "source": "Wired.com"
-        },
-        {
-            "title": "The Doomsday Glacier Is Getting Closer and Closer to Irreversible Collapse",
-            "url": "https://www.wired.com/story/the-doomsday-glacier-is-getting-closer-and-closer-to-irreversible-collapse/",
-            "description": "-",
-            "author": "By Ritsuko Kawai",
-            "scraped_at": "2026-04-21T09:07:31.751013",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Research Reveals the Optimal Way to Optimize",
-            "url": "https://www.wired.com/story/researchers-discover-the-optimal-way-to-optimize/",
-            "description": "-",
-            "author": "By Steve Nadis",
-            "scraped_at": "2026-04-21T09:07:31.993339",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Trump’s Agriculture Bailout Is Alienating His MAHA Base",
-            "url": "https://www.wired.com/story/trumps-agriculture-bailout-is-alienating-his-maha-base/",
-            "description": "-",
-            "author": "By Ayurella Horn-Muller",
-            "scraped_at": "2026-04-21T09:07:32.766370",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Sam Altman’s New Brain Venture, Merge Labs, Will Spin Out of a Nonprofit",
-            "url": "https://www.wired.com/story/sam-altman-brain-computer-interface-merge-labs-spin-out-nonprofit-forest-neurotech/",
-            "description": "-",
-            "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:07:32.894126",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Americans Are Increasingly Convinced That Aliens Have Visited Earth",
-            "url": "https://www.wired.com/story/americans-are-increasingly-convinced-that-aliens-have-visited-earth/",
-            "description": "-",
-            "author": "By Becky Ferreira",
-            "scraped_at": "2026-04-21T09:07:33.014381",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Pumped Hydro Energy Storage Is Having a Renaissance",
-            "url": "https://www.wired.com/story/pumped-hydro-energy-storage-is-having-a-renaissance/",
-            "description": "-",
-            "author": "By Chris Baraniuk",
-            "scraped_at": "2026-04-21T09:07:33.178365",
-            "source": "Wired.com"
-        },
-        {
-            "title": "How to Watch the Ursids Meteor Shower—the Last of the Year",
-            "url": "https://www.wired.com/story/how-to-watch-the-ursids-meteor-shower/",
-            "description": "-",
-            "author": "By Gretchen Rundorff",
-            "scraped_at": "2026-04-21T09:07:33.323002",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Former Neuralink Exec Launches Organ Preservation Effort",
-            "url": "https://www.wired.com/story/a-brain-computer-interface-company-is-getting-into-organ-preservation/",
-            "description": "-",
-            "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:07:33.442848",
-            "source": "Wired.com"
-        },
-        {
-            "title": "New Head of Trump’s Cancer Panel Speculated About Links Between Vaccines and Cancer",
-            "url": "https://www.wired.com/story/risch-trump-panel-vaccines-turbo-cancer-ivermectin-hcq/",
-            "description": "-",
-            "author": "By David Gilbert",
-            "scraped_at": "2026-04-21T09:07:33.586500",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Radiation-Detection Systems Are Quietly Running in the Background All Around You",
-            "url": "https://www.wired.com/story/radiation-detection-systems-are-quietly-running-in-the-background-all-around-you/",
-            "description": "-",
-            "author": "By Chris Baraniuk",
-            "scraped_at": "2026-04-21T09:07:54.136104",
-            "source": "Wired.com"
-        },
-        {
-            "title": "How Do Astronomers Find Planets in Other Solar Systems?",
-            "url": "https://www.wired.com/story/how-do-astronomers-find-planets-in-other-solar-systems/",
-            "description": "-",
-            "author": "By Rhett Allain",
-            "scraped_at": "2026-04-21T09:07:54.322381",
-            "source": "Wired.com"
-        },
-        {
-            "title": "For the First Time, AI Analyzes Language as Well as a Human Expert",
-            "url": "https://www.wired.com/story/in-a-first-ai-models-analyze-language-as-well-as-a-human-expert/",
-            "description": "-",
-            "author": "By Steve Nadis",
-            "scraped_at": "2026-04-21T09:07:55.158895",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Google Data Centers Are Returning Nuclear Power to Tornado Country",
-            "url": "https://www.wired.com/story/google-data-centers-will-bring-nuclear-power-back-to-tornado-country/",
-            "description": "-",
-            "author": "By Anika Jane Beamer",
-            "scraped_at": "2026-04-21T09:07:55.274474",
-            "source": "Wired.com"
-        },
-        {
-            "title": "People Are Already Taking This Unapproved New Weight-Loss Drug",
-            "url": "https://www.wired.com/story/people-are-already-taking-this-unapproved-new-weight-loss-drug-triple-g-retatrutide/",
-            "description": "-",
-            "author": "By John Semley",
-            "scraped_at": "2026-04-21T09:07:55.426970",
-            "source": "Wired.com"
-        },
-        {
-            "title": "RFK Jr.’s Health Department Is Pondering a National Men’s Health Initiative",
-            "url": "https://www.wired.com/story/rfk-jrs-health-department-is-pondering-a-national-mens-health-initiative/",
-            "description": "-",
-            "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:07:55.557265",
-            "source": "Wired.com"
-        },
-        {
-            "title": "How the Next Big Thing in Carbon Removal Sank Without a Trace",
-            "url": "https://www.wired.com/story/how-the-next-big-thing-in-carbon-removal-sunk-without-a-trace/",
-            "description": "-",
-            "author": "By Alexandra Talty",
-            "scraped_at": "2026-04-21T09:07:55.690468",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Many States Say They’ll Defy RFK Jr.’s Changes to Hepatitis B Vaccination",
-            "url": "https://www.wired.com/story/many-states-say-theyll-defy-rfk-jrs-changes-to-hepatitis-b-vaccination/",
-            "description": "-",
-            "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:07:55.832015",
-            "source": "Wired.com"
-        },
-        {
-            "title": "‘It Was Nuts’: The Extreme Tests that Show Why Hail Is a Multibillion-Dollar Problem",
-            "url": "https://www.wired.com/story/it-was-nuts-the-extreme-tests-that-show-why-hail-is-a-multi-billion-dollar-problem/",
-            "description": "-",
-            "author": "By Chris Baraniuk",
-            "scraped_at": "2026-04-21T09:07:56.000035",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Scientists Thought Parkinson’s Was in Our Genes. It Might Be in the Water",
-            "url": "https://www.wired.com/story/scientists-thought-parkinsons-was-in-our-genes-it-might-be-in-the-water/",
-            "description": "-",
-            "author": "By David Ferry",
-            "scraped_at": "2026-04-21T09:07:56.144303",
-            "source": "Wired.com"
-        },
-        {
-            "title": "For the First Time, Mutations in a Single Gene Have Been Linked to Mental Illness",
-            "url": "https://www.wired.com/story/mutations-in-a-single-gene-have-been-linked-to-mental-illness/",
-            "description": "-",
-            "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:07:56.289768",
-            "source": "Wired.com"
-        },
-        {
-            "title": "The Longest Solar Eclipse for 100 Years Is Coming. Don’t Miss It",
-            "url": "https://www.wired.com/story/the-longest-solar-eclipse-for-100-years-is-coming-dont-miss-it/",
-            "description": "-",
-            "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:07:56.552144",
-            "source": "Wired.com"
-        },
-        {
-            "title": "This AI Model Can Intuit How the Physical World Works",
-            "url": "https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/",
-            "description": "-",
-            "author": "By Anil Ananthaswamy",
-            "scraped_at": "2026-04-21T09:07:56.671461",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Why Tehran Is Running Out of Water",
-            "url": "https://www.wired.com/story/why-tehran-is-running-out-of-water-iran-climate-change-drought-extreme-weather/",
-            "description": "-",
-            "author": "By Yeon-Woo Choi And Elfatih A. B. Eltahir",
-            "scraped_at": "2026-04-21T09:07:56.796859",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Watch the Highlights From WIRED’s Big Interview Event Right Here",
-            "url": "https://www.wired.com/story/the-big-interview-2025-recap/",
-            "description": "-",
-            "author": "By Wired Staff",
-            "scraped_at": "2026-04-21T09:07:56.927989",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Can AI Look at Your Retina and Diagnose Alzheimer’s? Eric Topol Hopes So",
-            "url": "https://www.wired.com/story/big-interview-event-eric-topol-super-agers/",
-            "description": "-",
-            "author": "By Marah Eakin",
-            "scraped_at": "2026-04-21T09:07:57.107299",
-            "source": "Wired.com"
-        },
-        {
-            "title": "A Startup Says It Has Found a Hidden Source of Geothermal Energy",
-            "url": "https://www.wired.com/story/startup-found-hidden-source-geothermal-energy/",
-            "description": "-",
-            "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:07:57.227518",
-            "source": "Wired.com"
-        },
-        {
-            "title": "The Louisiana Department of Wildlife and Fisheries Is Detaining People for ICE",
-            "url": "https://www.wired.com/story/story/the-louisiana-department-of-wildlife-and-fisheries-is-detaining-people-for-ice/",
+            "title": "How Trump’s Plot to Grab Iran's Nuclear Fuel Would Actually Work",
+            "url": "https://www.wired.com/story/us-iran-war-nuclear-extraction-ground-operation/",
             "description": "-",
             "author": "By Caroline Haskins",
-            "scraped_at": "2026-04-21T09:07:57.396349",
+            "scraped_at": "2026-04-21T11:11:21.407477",
             "source": "Wired.com"
         },
         {
-            "title": "Thursday's Cold Moon Is the Last Supermoon of the Year. Here's How and When to View It",
-            "url": "https://www.wired.com/story/cold-moon-supermoon-december-how-to-view/",
+            "title": "A $20 Billion Crypto Scam Market Faces a New Government Crackdown",
+            "url": "https://www.wired.com/story/20-billion-xinbi-guarantee-uk-sanctions/",
             "description": "-",
-            "author": "By Marta Musso",
-            "scraped_at": "2026-04-21T09:07:58.233457",
+            "author": "By Matt Burgess And Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:11:21.508683",
             "source": "Wired.com"
         },
         {
-            "title": "A Fentanyl Vaccine Is About to Get Its First Major Test",
-            "url": "https://www.wired.com/story/a-fentanyl-vaccine-is-about-to-get-its-first-major-test/",
+            "title": "Using a VPN May Subject You to NSA Spying",
+            "url": "https://www.wired.com/story/using-a-vpn-may-subject-you-to-nsa-spying/",
             "description": "-",
-            "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:07:58.395497",
+            "author": "By Dell Cameron",
+            "scraped_at": "2026-04-21T11:11:21.640485",
             "source": "Wired.com"
         },
         {
-            "title": "The Oceans Are Going to Rise—but When?",
-            "url": "https://www.wired.com/story/the-oceans-are-going-to-rise-but-when/",
+            "title": "Anduril Wants to Own the Future of War Tech. Mishaps, Delays, and Challenges Abound",
+            "url": "https://www.wired.com/story/andurils-real-war-is-with-itself/",
             "description": "-",
-            "author": "By Evan Howell",
-            "scraped_at": "2026-04-21T09:08:23.128240",
+            "author": "By Paresh Dave",
+            "scraped_at": "2026-04-21T11:11:21.714823",
             "source": "Wired.com"
         },
         {
-            "title": "How to Measure the Earth’s Radius With Legos",
-            "url": "https://www.wired.com/story/how-to-measure-the-earths-radius-with-legos/",
+            "title": "When Satellite Data Becomes a Weapon",
+            "url": "https://www.wired.com/story/when-satellite-data-becomes-a-weapon/",
             "description": "-",
-            "author": "By Rhett Allain",
-            "scraped_at": "2026-04-21T09:08:23.260231",
+            "author": "By Gia Chaudry",
+            "scraped_at": "2026-04-21T11:11:31.395117",
             "source": "Wired.com"
         },
         {
-            "title": "The Trump Administration’s Data Center Push Could Open the Door for New Forever Chemicals",
-            "url": "https://www.wired.com/story/the-trump-administrations-data-center-push-could-open-the-door-for-new-forever-chemicals/",
+            "title": "Iranians Don’t Have a Missile Alert System, So Volunteers Built Their Own Warning Map",
+            "url": "https://www.wired.com/story/iranians-dont-have-a-missile-alert-system-so-volunteers-built-their-own-warning-map/",
             "description": "-",
-            "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:08:23.381623",
+            "author": "By Matt Burgess And Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:11:31.511911",
             "source": "Wired.com"
         },
         {
-            "title": "Boeing's Next Starliner Flight Will Be Allowed to Carry Only Cargo",
-            "url": "https://www.wired.com/story/boeings-next-starliner-flight-will-only-be-allowed-to-carry-cargo/",
+            "title": "Your Body Is Betraying Your Right to Privacy",
+            "url": "https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/",
             "description": "-",
-            "author": "By Eric Berger, Ars Technica",
-            "scraped_at": "2026-04-21T09:08:23.500922",
+            "author": "By Andrew Guthrie Ferguson",
+            "scraped_at": "2026-04-21T11:11:31.620105",
             "source": "Wired.com"
         },
         {
-            "title": "Game Theory Explains How Algorithms Can Drive Up Prices",
-            "url": "https://www.wired.com/story/game-theory-explains-how-algorithms-can-drive-up-prices/",
+            "title": "‘Get Down! Get Down! They’re Gonna See Us!’: Six Months of Hiding From ICE",
+            "url": "https://www.wired.com/story/get-down-get-down-six-months-of-hiding-from-ice/",
             "description": "-",
-            "author": "By Ben Brubaker",
-            "scraped_at": "2026-04-21T09:08:23.621350",
+            "author": "By Maddy Crowell",
+            "scraped_at": "2026-04-21T11:11:31.726266",
             "source": "Wired.com"
         },
         {
-            "title": "The Climate Impact of Owning a Dog",
-            "url": "https://www.wired.com/story/the-climate-paradox-of-having-a-dog/",
+            "title": "ICE Is Paying Salaries and More for This Town’s Entire Police Force",
+            "url": "https://www.wired.com/story/ice-is-paying-the-salaries-of-this-towns-entire-police-force/",
             "description": "-",
-            "author": "By Claire Elise Thompson",
-            "scraped_at": "2026-04-21T09:08:23.742518",
+            "author": "By Sammy Sussman",
+            "scraped_at": "2026-04-21T11:11:39.513225",
             "source": "Wired.com"
         },
         {
-            "title": "Paradromics Gets FDA Approval to Trial Its Brain Implant in People",
-            "url": "https://www.wired.com/story/paradromics-gets-fda-approval-to-trial-its-brain-implant-in-people/",
+            "title": "A Mysterious Numbers Station Is Broadcasting Through the Iran War",
+            "url": "https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/",
             "description": "-",
-            "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:08:23.870354",
+            "author": "By Ruchi Kumar",
+            "scraped_at": "2026-04-21T11:11:39.617266",
             "source": "Wired.com"
         },
         {
-            "title": "The Pelvic Floor Is a Problem",
-            "url": "https://www.wired.com/story/the-pelvic-floor-is-a-problem/",
+            "title": "Hassan Took a Bike Ride. Now He’s One of the Thousands Missing in Gaza",
+            "url": "https://www.wired.com/story/hassan-took-a-bike-ride-now-hes-one-of-the-thousands-missing-in-gaza/",
             "description": "-",
-            "author": "By Casey Johnston",
-            "scraped_at": "2026-04-21T09:08:23.986573",
+            "author": "By Mahmoud Mushtaha",
+            "scraped_at": "2026-04-21T11:11:39.698502",
             "source": "Wired.com"
         },
         {
-            "title": "NASA Finally Weighs In on the Origin of 3I/ATLAS",
-            "url": "https://www.wired.com/story/nasa-confirms-that-3i-atlas-is-an-interstellar-comet/",
+            "title": "What Happens When You Can’t Get a Death Certificate in Gaza",
+            "url": "https://www.wired.com/story/what-happens-when-you-cant-get-a-death-certificate-in-gaza/",
+            "description": "-",
+            "author": "By Mahmoud Mushtaha",
+            "scraped_at": "2026-04-21T11:11:39.797256",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck",
+            "url": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/",
+            "description": "-",
+            "author": "By Matt Burgess, Lily Hay Newman, And Andy Greenberg",
+            "scraped_at": "2026-04-21T11:11:39.896152",
+            "source": "Wired.com"
+        },
+        {
+            "title": "A Top Democrat Is Urging Colleagues to Support Trump’s Spy Machine",
+            "url": "https://www.wired.com/story/a-top-democrat-is-urging-colleagues-to-support-trumps-spy-machine/",
+            "description": "-",
+            "author": "By Dell Cameron",
+            "scraped_at": "2026-04-21T11:11:40.007242",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Danger Behind Meta Killing End-to-End Encryption for Instagram DMs",
+            "url": "https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/",
+            "description": "-",
+            "author": "By Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:11:40.126939",
+            "source": "Wired.com"
+        },
+        {
+            "title": "US Takes Down Botnets Used in Record-Breaking Cyberattacks",
+            "url": "https://www.wired.com/story/us-takes-down-botnets-used-in-record-breaking-cyberattacks/",
+            "description": "-",
+            "author": "By Andy Greenberg",
+            "scraped_at": "2026-04-21T11:11:40.222376",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Signal’s Creator Is Helping Encrypt Meta AI",
+            "url": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
+            "description": "-",
+            "author": "By Lily Hay Newman And Matt Burgess",
+            "scraped_at": "2026-04-21T11:11:40.310246",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild",
+            "url": "https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+            "description": "-",
+            "author": "By Andy Greenberg",
+            "scraped_at": "2026-04-21T11:11:40.377803",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Livestream Replay: The War Machine",
+            "url": "https://www.wired.com/story/livestream-the-war-machine/",
+            "description": "-",
+            "author": "By Tim Marchman, Paresh Dave, And Carla Sertin",
+            "scraped_at": "2026-04-21T11:11:40.468757",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
+            "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
+            "description": "-",
+            "author": "By Lily Hay Newman And Matt Burgess",
+            "scraped_at": "2026-04-21T11:11:40.562549",
+            "source": "Wired.com"
+        },
+        {
+            "title": "‘100 Video Calls Per Day’: Models Are Applying to Be the Face of AI Scams",
+            "url": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
+            "description": "-",
+            "author": "By Matt Burgess",
+            "scraped_at": "2026-04-21T11:11:40.718423",
+            "source": "Wired.com"
+        },
+        {
+            "title": "A Hacker Accidentally Broke Into the FBI’s Epstein Files",
+            "url": "https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/",
+            "description": "-",
+            "author": "By Andy Greenberg, Maddy Varner, And Andrew Couts",
+            "scraped_at": "2026-04-21T11:11:40.838505",
+            "source": "Wired.com"
+        },
+        {
+            "title": "US Lawmakers Move to Kill the FBI’s Warrantless Wiretap Access",
+            "url": "https://www.wired.com/story/us-lawmakers-move-to-kill-the-fbis-warrantless-wiretap-access/",
+            "description": "-",
+            "author": "By Dell Cameron",
+            "scraped_at": "2026-04-21T11:11:40.938168",
+            "source": "Wired.com"
+        },
+        {
+            "title": "How ‘Handala’ Became the Face of Iran’s Hacker Counterattacks",
+            "url": "https://www.wired.com/story/handala-hacker-group-iran-us-israel-war/",
+            "description": "-",
+            "author": "By Andy Greenberg, Matt Burgess, And Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:11:41.058125",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Meta Ramps Up Efforts to Disrupt Industrialized Scamming",
+            "url": "https://www.wired.com/story/meta-ramps-up-efforts-to-disrupt-industrialized-scamming/",
+            "description": "-",
+            "author": "By Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:11:41.174814",
+            "source": "Wired.com"
+        },
+        {
+            "title": "DHS Ousts CBP Privacy Officers Who Questioned ‘Illegal’ Orders",
+            "url": "https://www.wired.com/story/cbp-privacy-threshold-analysis-foia/",
+            "description": "-",
+            "author": "By Dell Cameron",
+            "scraped_at": "2026-04-21T11:11:41.280438",
+            "source": "Wired.com"
+        },
+        {
+            "title": "GPS Attacks Near Iran Are Wreaking Havoc on Delivery and Mapping Apps",
+            "url": "https://www.wired.com/story/gps-attacks-near-iran-are-wreaking-havoc-on-delivery-and-mapping-apps/",
+            "description": "-",
+            "author": "By Carla Sertin",
+            "scraped_at": "2026-04-21T11:11:41.404918",
+            "source": "Wired.com"
+        },
+        {
+            "title": "CBP Used Online Ad Data to Track Phone Locations",
+            "url": "https://www.wired.com/story/cbp-used-online-ad-data-to-track-phone-locations/",
+            "description": "-",
+            "author": "By Lily Hay Newman, Matt Burgess, Andy Greenberg, And Dell Cameron",
+            "scraped_at": "2026-04-21T11:11:41.525546",
+            "source": "Wired.com"
+        },
+        {
+            "title": "How Each Gulf Country Is Intercepting Iranian Missiles and Drones",
+            "url": "https://www.wired.com/story/how-each-gulf-country-is-intercepting-iranian-missiles-and-drones/",
+            "description": "-",
+            "author": "By Dana Alomar",
+            "scraped_at": "2026-04-21T11:12:06.991780",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Future of Iran’s Internet Is More Uncertain Than Ever",
+            "url": "https://www.wired.com/story/the-future-of-irans-internet-is-more-uncertain-than-ever/",
+            "description": "-",
+            "author": "By Matt Burgess And Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:12:07.146056",
+            "source": "Wired.com"
+        },
+        {
+            "title": "From Ukraine to Iran, Hacking Security Cameras Is Now Part of War’s ‘Playbook’",
+            "url": "https://www.wired.com/story/from-ukraine-to-iran-hacking-security-cameras-is-now-part-of-wars-playbook/",
+            "description": "-",
+            "author": "By Andy Greenberg",
+            "scraped_at": "2026-04-21T11:12:07.256718",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Here’s Every Country Directly Impacted by the War on Iran",
+            "url": "https://www.wired.com/story/every-country-directly-impacted-by-the-war-on-iran/",
+            "description": "-",
+            "author": "By Maddy Varner",
+            "scraped_at": "2026-04-21T11:12:07.363660",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The Controversies Finally Caught Up to Kristi Noem",
+            "url": "https://www.wired.com/story/the-controversies-finally-caught-up-to-kristi-noem/",
+            "description": "-",
+            "author": "By Molly Taft And Dell Cameron",
+            "scraped_at": "2026-04-21T11:12:07.470451",
+            "source": "Wired.com"
+        },
+        {
+            "title": "How a Music Streaming CEO Built an Open-Source Global Threat Map in His Spare Time",
+            "url": "https://www.wired.com/story/world-monitor-elie-habib/",
+            "description": "-",
+            "author": "By Lilian Wagdy",
+            "scraped_at": "2026-04-21T11:12:07.581245",
+            "source": "Wired.com"
+        },
+        {
+            "title": "How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers",
+            "url": "https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/",
+            "description": "-",
+            "author": "By Andy Greenberg",
+            "scraped_at": "2026-04-21T11:12:07.694618",
+            "source": "Wired.com"
+        },
+        {
+            "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals",
+            "url": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/",
+            "description": "-",
+            "author": "By Andy Greenberg",
+            "scraped_at": "2026-04-21T11:12:07.779201",
+            "source": "Wired.com"
+        },
+        {
+            "title": "How Journalists Are Reporting From Iran With No Internet",
+            "url": "https://www.wired.com/story/how-journalists-are-reporting-from-iran-with-no-internet/",
+            "description": "-",
+            "author": "By Mahmoud Aslan",
+            "scraped_at": "2026-04-21T11:12:07.871137",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Attacks on GPS Spike Amid US and Israeli War on Iran",
+            "url": "https://www.wired.com/story/gps-attacks-on-ships-spike-amid-the-us-and-israeli-war-on-iran/",
+            "description": "-",
+            "author": "By Matt Burgess",
+            "scraped_at": "2026-04-21T11:12:07.983057",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The 5 Big ‘Known Unknowns’ of Donald Trump’s New War With Iran",
+            "url": "https://www.wired.com/story/5-big-known-unknowns-donald-trump-iran-war/",
+            "description": "-",
+            "author": "By Garrett M. Graff",
+            "scraped_at": "2026-04-21T11:12:08.150871",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Hacked Prayer App Sends ‘Surrender’ Messages to Iranians Amid Israeli and US Strikes",
+            "url": "https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/",
+            "description": "-",
+            "author": "By Ruchi Kumar",
+            "scraped_at": "2026-04-21T11:12:08.295659",
+            "source": "Wired.com"
+        },
+        {
+            "title": "This Is the System That Intercepted Iran’s Missiles Over the UAE",
+            "url": "https://www.wired.com/story/uae-missile-intercept-system-iran/",
+            "description": "-",
+            "author": "By Dana Alomar",
+            "scraped_at": "2026-04-21T11:12:08.388198",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums",
+            "url": "https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/",
+            "description": "-",
+            "author": "By Andy Greenberg, Lily Hay Newman, And Maddy Varner",
+            "scraped_at": "2026-04-21T11:12:08.477930",
+            "source": "Wired.com"
+        },
+        {
+            "title": "US and Israel Launch Strikes Against Iran",
+            "url": "https://www.wired.com/story/us-iran-strike-donald-trump/",
+            "description": "-",
+            "author": "By Matt Burgess And Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:12:08.568487",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses",
+            "url": "https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/",
+            "description": "-",
+            "author": "By Dell Cameron",
+            "scraped_at": "2026-04-21T11:12:08.651081",
+            "source": "Wired.com"
+        },
+        {
+            "title": "This AI Agent Is Designed to Not Go Rogue",
+            "url": "https://www.wired.com/story/ironcurtain-ai-agent-security/",
+            "description": "-",
+            "author": "By Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:12:08.743554",
+            "source": "Wired.com"
+        },
+        {
+            "title": "How Mexico's ‘CJNG’ Drug Cartel Embraced AI, Drones, and Social Media",
+            "url": "https://www.wired.com/story/how-mexicos-cjng-drug-cartel-embraced-ai-drones-and-social-media/",
+            "description": "-",
+            "author": "By Fernanda González",
+            "scraped_at": "2026-04-21T11:12:08.880426",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Here’s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files",
+            "url": "https://www.wired.com/story/heres-what-a-google-subpoena-response-looks-like-courtesy-of-the-epstein-files/",
+            "description": "-",
+            "author": "By Maddy Varner",
+            "scraped_at": "2026-04-21T11:12:08.980824",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Password Managers Share a Hidden Weakness",
+            "url": "https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/",
+            "description": "-",
+            "author": "By Matt Burgess, Andy Greenberg, And Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:12:18.050057",
+            "source": "Wired.com"
+        },
+        {
+            "title": "‘Narco-Submarine’ Carrying 4 Tons of Cocaine Captured by Mexico's Navy",
+            "url": "https://www.wired.com/story/narco-submarine-carrying-4-tons-of-cocaine-captured-by-mexicos-navy/",
+            "description": "-",
+            "author": "By Fernanda González",
+            "scraped_at": "2026-04-21T11:12:18.181229",
+            "source": "Wired.com"
+        },
+        {
+            "title": "DHS Wants a Single Search Engine to Flag Faces and Fingerprints Across Agencies",
+            "url": "https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/",
+            "description": "-",
+            "author": "By Dell Cameron",
+            "scraped_at": "2026-04-21T11:12:18.283041",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Metadata Exposes Authors of ICE’s ‘Mega’ Detention Center Plans",
+            "url": "https://www.wired.com/story/metadata-exposes-authors-of-ices-mega-detention-center-plans/",
+            "description": "-",
+            "author": "By Maddy Varner",
+            "scraped_at": "2026-04-21T11:12:18.351596",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Jeffrey Epstein’s Ties to CBP Agents Sparked a DOJ Probe",
+            "url": "https://www.wired.com/story/jeffrey-epstein-cbp-agents-us-virgin-islands/",
+            "description": "-",
+            "author": "By Maddy Varner",
+            "scraped_at": "2026-04-21T11:12:18.431544",
+            "source": "Wired.com"
+        },
+        {
+            "title": "A $10K Bounty Awaits Anyone Who Can Hack Ring Cameras to Stop Sharing Data With Amazon",
+            "url": "https://www.wired.com/story/a-10k-bounty-awaits-anyone-who-can-hack-ring-cameras-to-stop-sharing-data-with-amazon/",
+            "description": "-",
+            "author": "By Boone Ashworth",
+            "scraped_at": "2026-04-21T11:12:18.501534",
+            "source": "Wired.com"
+        },
+        {
+            "title": "An FBI ‘Asset’ Helped Run a Dark Web Site That Sold Fentanyl-Laced Drugs for Years",
+            "url": "https://www.wired.com/story/an-fbi-asset-helped-run-a-dark-web-site-that-sold-fentanyl-laced-drugs-for-years/",
+            "description": "-",
+            "author": "By Andy Greenberg",
+            "scraped_at": "2026-04-21T11:12:18.563911",
+            "source": "Wired.com"
+        },
+        {
+            "title": "A Vast Trove of Exposed Social Security Numbers May Put Millions at Risk of Identity Theft",
+            "url": "https://www.wired.com/story/a-mega-trove-of-exposed-social-security-numbers-underscores-critical-identity-theft-risks/",
+            "description": "-",
+            "author": "By Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:12:18.678370",
+            "source": "Wired.com"
+        },
+        {
+            "title": "The El Paso No-Fly Debacle Is Just the Beginning of a Drone Defense Mess",
+            "url": "https://www.wired.com/story/the-el-paso-no-fly-debacle-is-just-the-beginning-of-the-drone-defense-mess/",
+            "description": "-",
+            "author": "By Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:12:18.735827",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Ring Kills Flock Safety Deal After Super Bowl Ad Uproar",
+            "url": "https://www.wired.com/story/security-news-this-week-ring-kills-flock-safety-deal-after-super-bowl-ad-uproar/",
+            "description": "-",
+            "author": "By Maddy Varner And Andrew Couts",
+            "scraped_at": "2026-04-21T11:12:18.793312",
+            "source": "Wired.com"
+        },
+        {
+            "title": "Robot Dogs Are on Going on Patrol at the 2026 World Cup in Mexico",
+            "url": "https://www.wired.com/story/robot-dogs-are-on-going-on-patrol-at-the-2026-world-cup-in-mexico/",
             "description": "-",
             "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:08:24.102698",
+            "scraped_at": "2026-04-21T11:12:18.853074",
             "source": "Wired.com"
         },
         {
-            "title": "Vaping Is ‘Everywhere’ in Schools—Sparking a Bathroom Surveillance Boom",
-            "url": "https://www.wired.com/story/vaping-surveillance-school-bathrooms/",
+            "title": "Crypto-Funded Human Trafficking Is Exploding",
+            "url": "https://www.wired.com/story/crypto-funded-human-trafficking-is-exploding/",
             "description": "-",
-            "author": "By Mark Keierleber",
-            "scraped_at": "2026-04-21T09:08:24.251002",
+            "author": "By Andy Greenberg",
+            "scraped_at": "2026-04-21T11:12:18.919475",
             "source": "Wired.com"
         },
         {
-            "title": "Valar Atomics Says It’s the First Nuclear Startup to Achieve Criticality",
-            "url": "https://www.wired.com/story/valar-atomics-says-its-the-first-nuclear-startup-to-achieve-criticality/",
+            "title": "ICE Is Crashing the US Court System in Minnesota",
+            "url": "https://www.wired.com/story/ice-crashing-us-court-system-minnesota/",
             "description": "-",
-            "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:08:24.387625",
+            "author": "By Maddy Varner",
+            "scraped_at": "2026-04-21T11:12:18.989119",
             "source": "Wired.com"
         },
         {
-            "title": "A Collision With Space Debris Leaves 3 Chinese Astronauts Stranded in Orbit",
-            "url": "https://www.wired.com/story/three-astronauts-are-stuck-on-chinas-space-station-without-a-safe-ride-home/",
+            "title": "CBP Signs Clearview AI Deal to Use Face Recognition for ‘Tactical Targeting’",
+            "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
             "description": "-",
-            "author": "By Stephen Clark, Ars Technica",
-            "scraped_at": "2026-04-21T09:08:24.518465",
+            "author": "By Dell Cameron",
+            "scraped_at": "2026-04-21T11:12:19.067909",
             "source": "Wired.com"
         },
         {
-            "title": "How Genes Have Harnessed Physics to Grow Living Things",
-            "url": "https://www.wired.com/story/how-genes-have-harnessed-physics-to-grow-living-things/",
+            "title": "AI Is Here to Replace Nuclear Treaties. Scared Yet?",
+            "url": "https://www.wired.com/story/satellites-ai-nuclear-treaties/",
             "description": "-",
-            "author": "By Anna Demming",
-            "scraped_at": "2026-04-21T09:08:24.667519",
+            "author": "By Matthew Gault",
+            "scraped_at": "2026-04-21T11:12:19.160762",
             "source": "Wired.com"
         },
         {
-            "title": "An Invasive Disease-Carrying Mosquito Has Spread to the Rocky Mountains",
-            "url": "https://www.wired.com/story/a-disease-carrying-mosquito-has-landed-in-the-rocky-mountains-where-it-historically-couldnt-survive/",
+            "title": "Iran’s Digital Surveillance Machine Is Almost Complete",
+            "url": "https://www.wired.com/story/irans-digital-surveillance-machine-is-almost-complete/",
             "description": "-",
-            "author": "By Erin Douglas",
-            "scraped_at": "2026-04-21T09:08:24.818747",
+            "author": "By Lily Hay Newman And Matt Burgess",
+            "scraped_at": "2026-04-21T11:12:19.246284",
             "source": "Wired.com"
         },
         {
-            "title": "The Data Center Resistance Has Arrived",
-            "url": "https://www.wired.com/story/the-data-center-resistance-has-arrived/",
+            "title": "Moltbook, the Social Network for AI Agents, Exposed Real Humans’ Data",
+            "url": "https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/",
             "description": "-",
-            "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:08:24.940242",
+            "author": "By Andy Greenberg And Lily Hay Newman",
+            "scraped_at": "2026-04-21T11:12:19.338702",
             "source": "Wired.com"
         },
         {
-            "title": "Weight-Loss Drug Zepbound Is Being Tested as a Treatment for Long Covid",
-            "url": "https://www.wired.com/story/weight-loss-drug-zepbound-is-being-tested-as-a-treatment-for-long-covid/",
+            "title": "ICE Agent’s ‘Dragging’ Case May Help Expose Evidence in Renee Good Shooting",
+            "url": "https://www.wired.com/story/jonathan-ross-renee-good-roberto-carlos-munoz-guatemala/",
             "description": "-",
-            "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:08:25.743241",
+            "author": "By Dell Cameron",
+            "scraped_at": "2026-04-21T11:12:19.420201",
             "source": "Wired.com"
         },
         {
-            "title": "Can a Hydroelectric Dam Really Make the Days Longer?",
-            "url": "https://www.wired.com/story/can-a-hydroelectric-dam-really-make-the-days-longer/",
+            "title": "ICE and CBP’s Face-Recognition App Can’t Actually Verify Who People Are",
+            "url": "https://www.wired.com/story/cbp-ice-dhs-mobile-fortify-face-recognition-verify-identity/",
             "description": "-",
-            "author": "By Rhett Allain",
-            "scraped_at": "2026-04-21T09:08:25.855848",
+            "author": "By Dell Cameron And Maddy Varner",
+            "scraped_at": "2026-04-21T11:12:19.551528",
             "source": "Wired.com"
         },
         {
-            "title": "British Churches Are Putting Their Faith in Heat Pumps",
-            "url": "https://www.wired.com/story/let-there-be-warmth-the-british-churches-putting-their-faith-in-heat-pumps/",
+            "title": "Notepad++ Users, You May Have Been Hacked by China",
+            "url": "https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/",
             "description": "-",
-            "author": "By Chris Baraniuk",
-            "scraped_at": "2026-04-21T09:08:26.004962",
-            "source": "Wired.com"
-        },
-        {
-            "title": "The Physics of the Northern Lights",
-            "url": "https://www.wired.com/story/the-physics-of-the-northern-lights-aurora-borealis/",
-            "description": "-",
-            "author": "By Rhett Allain",
-            "scraped_at": "2026-04-21T09:08:26.114649",
-            "source": "Wired.com"
-        },
-        {
-            "title": "If the US Has to Build Data Centers, Here’s Where They Should Go",
-            "url": "https://www.wired.com/story/heres-where-to-build-data-centers-to-keep-emissions-down/",
-            "description": "-",
-            "author": "By Molly Taft",
-            "scraped_at": "2026-04-21T09:08:26.226417",
-            "source": "Wired.com"
-        },
-        {
-            "title": "The First Radio Signal From Comet 3I/Atlas Ends the Debate About Its Nature",
-            "url": "https://www.wired.com/story/the-first-radio-signal-from-comet-3i-atlas-ends-debate-about-its-nature/",
-            "description": "-",
-            "author": "By Javier Carbajal",
-            "scraped_at": "2026-04-21T09:09:07.911275",
-            "source": "Wired.com"
-        },
-        {
-            "title": "The Mysterious Math Behind the Brazilian Butt Lift",
-            "url": "https://www.wired.com/story/book-excerpt-replaceable-you-mary-roach-butt-implants/",
-            "description": "-",
-            "author": "By Mary Roach",
-            "scraped_at": "2026-04-21T09:09:08.066766",
-            "source": "Wired.com"
-        },
-        {
-            "title": "The Hidden Math of Ocean Waves",
-            "url": "https://www.wired.com/story/the-hidden-math-of-ocean-waves-crashes-into-view/",
-            "description": "-",
-            "author": "By Joseph Howlett",
-            "scraped_at": "2026-04-21T09:09:08.199856",
-            "source": "Wired.com"
-        },
-        {
-            "title": "A Gene-Editing Therapy Cut Cholesterol Levels by Half",
-            "url": "https://www.wired.com/story/a-gene-editing-therapy-cut-cholesterol-levels-by-half/",
-            "description": "-",
-            "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:09:08.342491",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Trump’s Hatred of EVs Is Making Gas Cars More Expensive",
-            "url": "https://www.wired.com/story/trumps-anti-climate-agenda-is-making-it-more-expensive-to-own-a-car/",
-            "description": "-",
-            "author": "By Umair Irfan",
-            "scraped_at": "2026-04-21T09:09:08.476721",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Unpicking How to Measure the Complexity of Knots",
-            "url": "https://www.wired.com/story/unpicking-how-to-measure-the-complexity-of-knots/",
-            "description": "-",
-            "author": "By Leila Sloman",
-            "scraped_at": "2026-04-21T09:09:08.636267",
-            "source": "Wired.com"
-        },
-        {
-            "title": "How to Follow the Trajectory of Comet 3I/Atlas",
-            "url": "https://www.wired.com/story/how-to-follow-the-trajectory-of-comet-3i-atlas/",
-            "description": "-",
-            "author": "By Jorge Garay",
-            "scraped_at": "2026-04-21T09:09:08.866876",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Blood Tests for Alzheimer’s Are Here",
-            "url": "https://www.wired.com/story/blood-tests-for-alzheimers-have-arrived-but-how-effective-are-they-and-can-they-really-change-patients-lives/",
-            "description": "-",
-            "author": "By Simone Valesini",
-            "scraped_at": "2026-04-21T09:09:09.078044",
-            "source": "Wired.com"
-        },
-        {
-            "title": "A New Type of Opioid Is Killing People in the US, Europe, and Australia",
-            "url": "https://www.wired.com/story/a-new-type-of-opioid-is-killing-people-in-the-us-europe-and-australia/",
-            "description": "-",
-            "author": "By Simone Valesini",
-            "scraped_at": "2026-04-21T09:09:09.220765",
-            "source": "Wired.com"
-        },
-        {
-            "title": "A New Light-Based Cancer Treatment Kills Tumor Cells and Spares Healthy Ones",
-            "url": "https://www.wired.com/story/a-new-light-based-cancer-treatment-kills-tumor-cells-and-spares-healthy-ones/",
-            "description": "-",
-            "author": "By Javier Carbajal",
-            "scraped_at": "2026-04-21T09:09:09.356414",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Physicists Create a Thermometer for Measuring ‘Quantumness’",
-            "url": "https://www.wired.com/story/physicists-create-a-thermometer-for-measuring-quantumness/",
-            "description": "-",
-            "author": "By Philip Ball",
-            "scraped_at": "2026-04-21T09:09:09.697818",
-            "source": "Wired.com"
-        },
-        {
-            "title": "Climate Change Made Hurricane Melissa 4 Times More Likely, Study Suggests",
-            "url": "https://www.wired.com/story/climate-change-made-hurricane-melissa-four-times-more-likely-study-suggests/",
-            "description": "-",
-            "author": "By Kiley Price",
-            "scraped_at": "2026-04-21T09:09:10.262301",
-            "source": "Wired.com"
-        },
-        {
-            "title": "The ‘10 Martini’ Proof Connects Quantum Mechanics With Infinitely Intricate Mathematical Structures",
-            "url": "https://www.wired.com/story/the-10-martini-proof-connects-quantum-mechanics-with-infinitely-intricate-mathematical-structures/",
-            "description": "-",
-            "author": "By Lyndie Chiou And Joseph Howlett",
-            "scraped_at": "2026-04-21T09:09:10.405368",
-            "source": "Wired.com"
-        },
-        {
-            "title": "How Do Metal Detectors Work?",
-            "url": "https://www.wired.com/story/how-do-metal-detectors-work/",
-            "description": "-",
-            "author": "By Rhett Allain",
-            "scraped_at": "2026-04-21T09:09:10.542642",
-            "source": "Wired.com"
-        },
-        {
-            "title": "A New Startup Wants to Edit Human Embryos",
-            "url": "https://www.wired.com/story/startup-edit-human-embryos-manhattan-genomics-cathy-tie/",
-            "description": "-",
-            "author": "By Emily Mullin",
-            "scraped_at": "2026-04-21T09:09:10.669667",
-            "source": "Wired.com"
-        },
-        {
-            "title": "NASA’s Quiet Supersonic Jet Takes Flight",
-            "url": "https://www.wired.com/story/nasas-quiet-supersonic-jet-takes-flight/",
-            "description": "-",
-            "author": "By Jay Bennett",
-            "scraped_at": "2026-04-21T09:09:10.777720",
-            "source": "Wired.com"
-        },
-        {
-            "title": "A Fight Over Big Tech’s Emissions Has the Greenhouse Gas Protocol Caught in the Crossfire",
-            "url": "https://www.wired.com/story/greenhouse-gas-protocol-caught-in-big-techs-friendly-fire/",
-            "description": "-",
-            "author": "By Isabel O’Brien",
-            "scraped_at": "2026-04-21T09:09:10.909330",
+            "author": "By Dan Goodin, Ars Technica",
+            "scraped_at": "2026-04-21T11:12:26.721370",
             "source": "Wired.com"
         }
     ]
