@@ -15,20 +15,20 @@ def scrape_wired_pagination():
     
     # Kategori yang akan di-scrape
     base_categories = [
+        "https://www.wired.com/category/computers",
         "https://www.wired.com/category/science",
         "https://www.wired.com/category/security"
     ]
     
     articles_data = []
-    target_count = 200 
+    target_count_per_kategori = 100
+    total_target = target_count_per_kategori * len(base_categories)
     
     for base_url in base_categories:
-        if len(articles_data) >= target_count:
-            break
-            
         page = 1 
+        jumlah_kategori_ini = 0
         
-        while len(articles_data) < target_count:
+        while jumlah_kategori_ini < target_count_per_kategori:
             if page == 1:
                 url = f"{base_url}/"
             else:
@@ -46,25 +46,32 @@ def scrape_wired_pagination():
                 articles = driver.find_elements(By.CSS_SELECTOR, "div[class*='SummaryItemWrapper']")
                 
                 if not articles:
-                    print("Halaman kosong, pindah kategori...")
+                    print(f"Halaman kosong di {url}, pindah kategori...")
                     break
                 
                 for article in articles:
-                    if len(articles_data) >= target_count:
+                    if jumlah_kategori_ini >= target_count_per_kategori:
                         break
                         
                     try:
-                        title = article.find_element(By.CSS_SELECTOR, "h3").text
+                        title = article.find_element(By.CSS_SELECTOR, "h3, h2").text
                         article_url = article.find_element(By.CSS_SELECTOR, "a").get_attribute("href")
                         
                         try:
-                            description = article.find_element(By.CSS_SELECTOR, "div[class*='SummaryItemDek']").text
+                            desc_element = article.find_element(By.CSS_SELECTOR, "div[class*='Dek'], div[class*='dek'], p[class*='summary']")
+                            description = desc_element.text
+                            if not description: description = "-"
                         except:
                             description = "-"
                             
                         try:
-                            author_element = article.find_element(By.CSS_SELECTOR, "div[class*='BylineName']")
-                            author = f"By {author_element.text}"
+                            author_element = article.find_element(By.CSS_SELECTOR, "[class*='Byline'], [class*='byline'], [data-testid*='Byline']")
+                            author_text = author_element.text.strip().title()
+                            
+                            if author_text:
+                                author = author_text if author_text.startswith("By ") else f"By {author_text}"
+                            else:
+                                author = "By Unknown"
                         except:
                             author = "By Unknown"
                             
@@ -77,8 +84,12 @@ def scrape_wired_pagination():
                                 "scraped_at": datetime.now().isoformat(),
                                 "source": "Wired.com"
                             })
-                            print(f"[{len(articles_data)}/{target_count}] Berhasil ambil: {title[:30]}...")
                             
+                            # Counter spesifik kategori nambah
+                            jumlah_kategori_ini += 1
+                            
+                            print(f"[{len(articles_data)}/{total_target}] Berhasil ambil: {title[:20]}... | Author: {author}")
+                    
                     except Exception as e:
                         continue
                 
