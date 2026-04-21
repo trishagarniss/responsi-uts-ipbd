@@ -26,9 +26,9 @@ def transform_and_load(**kwargs):
     # Simpan ke Database
     engine = create_engine(DB_CONN)
     
-    with engine.connect() as conn:
-        conn.execute(text("TRUNCATE TABLE wired_articles;"))
-        conn.commit()
+    # with engine.connect() as conn:
+    #     conn.execute(text("TRUNCATE TABLE wired_articles;"))
+    #     conn.commit()
     
     df.to_sql('wired_articles', engine, if_exists='append', index=False)
 
