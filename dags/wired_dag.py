@@ -1,15 +1,16 @@
 from airflow import DAG
 from airflow.operators.python import PythonOperator
+from sqlalchemy import create_engine, text
 from datetime import datetime, timedelta
 import requests
 import pandas as pd
 from sqlalchemy import create_engine
 
 # Konfigurasi Database
-DB_CONN = "postgresql://admin_pipeline:DataEngineer2027!@localhost:5434/ipbd_wired"
+DB_CONN = "postgresql://admin_pipeline:DataEngineer2027!@postgres_db:5432/ipbd_wired"
 
 def extract_from_api():
-    response = requests.get("http://localhost:8000/articles")
+    response = requests.get("http://host.docker.internal:8000/articles")
     data = response.json()
     return data['articles']
 
@@ -24,6 +25,11 @@ def transform_and_load(**kwargs):
     
     # Simpan ke Database
     engine = create_engine(DB_CONN)
+    
+    with engine.connect() as conn:
+        conn.execute(text("TRUNCATE TABLE wired_articles;"))
+        conn.commit()
+    
     df.to_sql('wired_articles', engine, if_exists='append', index=False)
 
 default_args = {
