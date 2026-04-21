@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  postgres_db:
+    image: postgres:15
+    container_name: ipbd_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: admin_pipeline
+      POSTGRES_PASSWORD: DataEngineer2027!
+      POSTGRES_DB: ipbd_wired
+    ports:
+      - "5434:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  airflow:
+    image: apache/airflow:2.8.3
+    container_name: ipbd_airflow
+    restart: always
+    depends_on:
+      - postgres_db
+    environment:
+      - _PIP_ADDITIONAL_REQUIREMENTS=pandas sqlalchemy requests psycopg2-binary
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://admin_pipeline:DataEngineer2027!@postgres_db:5432/ipbd_wired_db
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+    volumes:
+      - ./dags:/opt/airflow/dags
+    ports:
+      - "8080:8080"
+    command: standalone 
+
+volumes:
+  pgdata:
